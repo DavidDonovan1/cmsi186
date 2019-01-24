@@ -69,7 +69,6 @@ public class CalendarStuff {
    */
    public static boolean isLeapYear( long year ) {
       return (year% 4 == 0 && year % 100 != 0 || year % 400 == 0);
-	  //return true;
    }
 
   /**
@@ -95,7 +94,9 @@ public class CalendarStuff {
    * @return          boolean which is true if the two dates are exactly the same
    */
    public static boolean dateEquals( long month1, long day1, long year1, long month2, long day2, long year2 ) {
-      return true;
+      return((month1 == month2)&&(day1 == day2)&&(year1 == year2));
+	  
+	  //return true;
    }
 
   /**
