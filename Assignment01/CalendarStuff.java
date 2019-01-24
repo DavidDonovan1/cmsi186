@@ -1,8 +1,8 @@
-*
+/**
  *  File name     :  CalendarStuff.java
  *  Purpose       :  Provides a class with supporting methods for CountTheDays.java program
- *  Author        :  David Donovan
- *  Date          :  2019-01-24
+ *  Author        :  <your name here>
+ *  Date          :  <date of writing here>
  *  Description   :  This file provides the supporting methods for the CountTheDays program which will
  *                   calculate the number of days between two dates.  It shows the use of modularization
  *                   when writing Java code, and how the Java compiler can "figure things out" on its
@@ -68,7 +68,8 @@ public class CalendarStuff {
    * @return         boolean which is true if the parameter is a leap year
    */
    public static boolean isLeapYear( long year ) {
-      return true;
+      return (year% 4 == 0 && year % 100 != 0 || year % 400 == 0);
+	  //return true;
    }
 
   /**
