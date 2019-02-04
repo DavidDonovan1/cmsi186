@@ -67,6 +67,7 @@ public class CalendarStuff {
    * @param    year  long containing four-digit year
    * @return         boolean which is true if the parameter is a leap year
    */
+   
    public static boolean isLeapYear( long year ) {
       return (year% 4 == 0 && year % 100 != 0 || year % 400 == 0);
    }
@@ -79,8 +80,12 @@ public class CalendarStuff {
    * notes: remember that the month variable is used as an indix, and so must
    *         be decremented to make the appropriate index value
    */
+   
    public static long daysInMonth( long month, long year ) {
-      return 33;
+      if(isLeapYear(year) && month == 2){
+		return (long) 29;
+	  }
+   return ((long)days[(int)month-1]);
    }
 
   /**
@@ -93,10 +98,9 @@ public class CalendarStuff {
    * @param    year2  long    containing four-digit year
    * @return          boolean which is true if the two dates are exactly the same
    */
+   
    public static boolean dateEquals( long month1, long day1, long year1, long month2, long day2, long year2 ) {
       return((month1 == month2)&&(day1 == day2)&&(year1 == year2));
-	  
-	  //return true;
    }
 
   /**
@@ -109,8 +113,15 @@ public class CalendarStuff {
    * @param    year2  long   containing four-digit year
    * @return          int    -1/0/+1 if first date is less than/equal to/greater than second
    */
+   
    public static int compareDate( long month1, long day1, long year1, long month2, long day2, long year2 ) {
-      return 0;
+      if (year1 == year2 && month1 == month2 && day1 == day2){
+		  return 0;
+	  }
+	  if (year1 < year2 || (year1 == year2 && month1 < month2) || (year1 == year2 && month1 == month2 && day1 < day2)){
+		  return -1;
+	  }
+	  return 1;  
    }
 
   /**
@@ -122,8 +133,17 @@ public class CalendarStuff {
    * notes: remember that the month and day variables are used as indices, and so must
    *         be decremented to make the appropriate index value
    */
+   
    public static boolean isValidDate( long month, long day, long year ) {
-      return true;
+      if (month > 0 && month <= 12) {
+		  if (day <= daysInMonth(month, year)&& day > 0){
+			  return true;
+		  }
+	  }
+	  if (month == 2 && day == 29 && isLeapYear(year)){
+		  return true;
+	  }
+	  return false;
    }
 
   /**
@@ -131,8 +151,21 @@ public class CalendarStuff {
    * @param    month long   containing month number, starting with "1" for "January"
    * @return         String containing the string value of the month (no spaces)
    */
+   
    public static String toMonthString( int month ) {
       switch( month - 1 ) {
+		 case 0: return "January"; 
+		 case 1: return "February";
+		 case 2: return "March";
+		 case 3: return "April";
+		 case 4: return "May";
+		 case 5: return "June";
+		 case 6: return "July";
+		 case 7: return "August";
+		 case 8: return "September";
+		 case 9: return "October";
+		 case 10: return "November";
+		 case 11: return "December";
          default: throw new IllegalArgumentException( "Illegal month value given to 'toMonthString()'." );
       }
    }
@@ -155,12 +188,52 @@ public class CalendarStuff {
    * @param    year1  long   containing four-digit year
    * @param    month2 long   containing month number, starting with "1" for "January"
    * @param    day2   long   containing day number
-   * @param    year2  long   containing four-digit year
+   * @param    year2  long   containing four-digit year	
    * @return          long   count of total number of days
    */
    public static long daysBetween( long month1, long day1, long year1, long month2, long day2, long year2 ) {
       long dayCount = 0;
-      return dayCount;
+	  long month;
+	  long day;
+	  long year;
+	  int[] monthDays = new int[]{31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+	  if (isValidDate(month1,day1,year1) && isValidDate(month2,day2,year2)){
+		  month = month1; day = day1; year = year1; 
+		  if (1==compareDate(month1,day1,year1,month2,day2,year2)){
+				month1 = month2; day1 = day2; year1 = year2;
+				month2 = month; day2 = day; year2 = year;
+				month = month1; day = day1; year = year1;
+			}
+			if(dateEquals(month, day, year, month2, day2, year2 )){
+				return 0;
+			}
+			while(!dateEquals(month, day, year, month2, day2, year2 )){
+				if (isLeapYear(year)){
+					monthDays = new int[]{ 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+				}
+				else{
+					monthDays = new int[]{ 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+				}
+				if(day< (long)monthDays[(int)month-1]){
+					day++;
+					dayCount++;
+				}
+				else{
+					month++;
+					day=1;
+					dayCount++;
+				}
+				if(month>=12 && day>=31){
+					year++;
+					day=1;
+					month=1;
+					dayCount++;
+				}
+				
+			}
+			
+ 	  }
+	  return dayCount;
    }
 
 }
