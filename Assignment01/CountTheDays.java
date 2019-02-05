@@ -64,8 +64,9 @@ public class CountTheDays {
 	  
       CountTheDays ctd = new  CountTheDays(args);
       CalendarStuff cs = new CalendarStuff();
-	  
-	  System.out.println(cs.daysBetween(month1, day1, year1, month2, day2, year2));
+	  System.out.println();
+	  System.out.print("There are " + cs.daysBetween(month1, day1, year1, month2, day2, year2) + " days between " + cs.toMonthString((int)month1) + " " + day1 + " " + year1 + " and ");
+	  System.out.println(cs.toMonthString((int)month2) + " " + day2 + " " + year2);
 	  
    }
 

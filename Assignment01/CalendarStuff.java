@@ -58,8 +58,7 @@ public class CalendarStuff {
    * The constructor for the class
    */
    public CalendarStuff() {
-      System.out.println( "Constructor called..." );
-   }
+     }
 
   /**
    * A method to determine if the year argument is a leap year or not<br />
