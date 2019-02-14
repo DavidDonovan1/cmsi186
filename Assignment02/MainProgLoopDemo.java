@@ -30,15 +30,19 @@ public class MainProgLoopDemo{
       while( true ) {
          System.out.print( ">>" );
          String inputLine = null;
-         try {
+		 try {
             inputLine = input.readLine();
             if( 0 == inputLine.length() ) {
                System.out.println("enter some text!:");
             }
             System.out.println( "   You typed: " + inputLine );
-            if( 'q' == inputLine.charAt(0) ) {
+            try{if( 'q' == inputLine.charAt(0) ) {
                break;
-            }         }
+            }}
+			catch(IndexOutOfBoundsException e ) {
+            System.out.println( "Caught IOBException" );
+         }
+		}
          catch( IOException ioe ) {
             System.out.println( "Caught IOException" );
          }
