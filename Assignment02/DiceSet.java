@@ -172,7 +172,7 @@ public class DiceSet {
 			   firstList.remove(firstList.get(i));
 			   //System.out.println(firstList);
 			   //System.out.println(secondList);
-			   continue;
+			   
 		   }
 		   else
 		   {
