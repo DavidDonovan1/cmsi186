@@ -1,4 +1,5 @@
 import java.util.*;
+import java.lang.*;
 public class Ball {
 
 	double xPosition;
@@ -25,14 +26,18 @@ public class Ball {
 		return xPosition;
 	}
 	
+	public double getCurrentYPosition() {
+		return yPosition;
+	}
+	
 	public double[] getCurrentPosition() {
 		currentPosition[0] = xPosition;
 		currentPosition[1] = yPosition;
 		return currentPosition;
 	}
 	
-	public boolean isStillMoving() {
-		if (xVelocity/12.0 <= 1.0 && yVelocity/12.0 <= 1.0)
+	public boolean isNotMoving() {
+		if (Math.abs(xVelocity)*12.0 <= 1.0 && Math.abs(yVelocity)*12.0 <= 1.0)
 		{ return true; }
 		return false;
 	}
@@ -59,7 +64,7 @@ public class Ball {
 	}
 	
 	public String toString() {
-		return ("Position: " + Arrays.toString(getCurrentPosition()) + "\nSpeed: " + Arrays.toString(getCurrentSpeed()) + "\nAt Rest? " + isStillMoving() + "\nIn Bounds? " + setBallOutOfBounds(1000,1000));
+		return ("Position: " + Arrays.toString(getCurrentPosition()) + "\nSpeed: " + Arrays.toString(getCurrentSpeed()) + "\nAt Rest? " + isNotMoving() + "\nIn Bounds? " + setBallOutOfBounds(1000,1000));
 	}
 	
 	public static void main( String args[]) {

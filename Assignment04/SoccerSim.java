@@ -1,26 +1,63 @@
+import java.util.*;
+import java.lang.*;
 public class SoccerSim {
 	
 	public static int arguments = 0;
 	public static double timeslice = 1.0;
+	public static Clock clock = new Clock();
 	
 	public SoccerSim() {
 	//maybe needs args and functionality	
 	}
 	
 	public static void Simulation(Ball[] Balls) {
-		//for each ball move them unil no balls are moving
 		
-		//tick - move - ball.isStillMoving()
+		System.out.println("\n\nSTARTING SIMULATION");
+		System.out.println("\nCreating new Clock with timeslice " + timeslice + " . . . ");
+		clock.setTimeSlice(timeslice);
+		System.out.println("Done");
 		
-		//while(ballMoving(Balls)) {}
-			
-		
+		System.out.println("\nMOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED");
+
+		while (ballMoving(Balls) ) {
+			clock.tick();
+			System.out.println("SECONDS PASSED: " + clock.getTotalSeconds());
+			for (int i=0; i<Balls.length; i++) {
+				Balls[i].move(timeslice);
+				System.out.println("\n" + Balls[i]);
+			}
+			if (collisionDetected(Balls)) {
+				break;
+			}
+			System.out.println();
+		}
+		System.out.println("\nDone\n\n\n");
+
+	}
+	
+	public static boolean collisionDetected(Ball[] Balls) {
+		for (int i=0; i<Balls.length; i++) {
+			for (int p=0; p<Balls.length; p++) {
+				if (i != p) 	{
+					if (Math.sqrt(Math.pow((Balls[p].getCurrentXPosition()-Balls[i].getCurrentXPosition()),2) + Math.pow((Balls[p].getCurrentYPosition()-Balls[i].getCurrentYPosition()),2)) <= 9.0) {
+						System.out.println("\n\nCOLLISION DETECTED\n");
+						System.out.println("Balls " + (i+1) + " and " + (p+1) + " collided at " + Arrays.toString(Balls[i].getCurrentPosition()) + " at time " + clock.getTotalSeconds() + " seconds!");
+						System.out.println("\n"+Balls[i]);
+						System.out.println("\n"+Balls[p]);
+						System.out.println("\nDistance between Balls " + (i+1) + " and " + (p+1) + ": " +Math.sqrt(Math.pow((Balls[p].getCurrentXPosition()-Balls[i].getCurrentXPosition()),2) + Math.pow((Balls[p].getCurrentYPosition()-Balls[i].getCurrentYPosition()),2)));
+						return true;
+					}
+				}
+			}
+		}
+		return false;	
 	}
 	
 	public static boolean ballMoving(Ball[] Balls) {
 		for (int i=0; i<Balls.length; i++) {
-			if (!Balls[i].isStillMoving())
-			{ return false; }
+			if (Balls[i].isNotMoving())
+			{ System.out.println("\n\nBall " + (i+1) + " went out of bounds!\n\n");
+				return false; }
 		}
 		return true;
 	}
