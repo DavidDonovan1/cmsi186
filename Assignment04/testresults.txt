@@ -4,1041 +4,29 @@
 ... Testing Ball class ...              
 ======================================  
 
-   Testing the Ball class................
-Ball b1: position <10.00, 50.00>		velocity <2.0000 X and 6.0000 Y> ft/sec
-Ball b2: position <20.00, 60.00>		velocity <3.0000 X and 7.0000 Y> ft/sec
-Ball b3: position <30.00, 70.00>		velocity <4.0000 X and 8.0000 Y> ft/sec
-Ball b4: position <40.00, 80.00>		velocity <5.0000 X and 9.0000 Y> ft/sec
-
-Ball b1: position <12.00, 56.00>		velocity <1.9800 X and 5.9400 Y> ft/sec
-Ball b2: position <23.00, 67.00>		velocity <2.9700 X and 6.9300 Y> ft/sec
-Ball b3: position <34.00, 78.00>		velocity <3.9600 X and 7.9200 Y> ft/sec
-Ball b4: position <45.00, 89.00>		velocity <4.9500 X and 8.9100 Y> ft/sec
-
-Ball b1: position <13.98, 61.94>		velocity <1.9780 X and 5.9340 Y> ft/sec
-Ball b2: position <25.97, 73.93>		velocity <2.9670 X and 6.9230 Y> ft/sec
-Ball b3: position <37.96, 85.92>		velocity <3.9560 X and 7.9120 Y> ft/sec
-Ball b4: position <49.95, 97.91>		velocity <4.9450 X and 8.9010 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		velocity <1.9386 X and 5.8159 Y> ft/sec
-Ball b2: position <28.94, 80.85>		velocity <2.9080 X and 6.7853 Y> ft/sec
-Ball b3: position <41.92, 93.83>		velocity <3.8773 X and 7.7546 Y> ft/sec
-Ball b4: position <54.90, 106.81>		velocity <4.8466 X and 8.7239 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <31.84, 87.64>		velocity <2.8501 X and 6.6502 Y> ft/sec
-Ball b3: position <45.79, 101.59>		velocity <3.8001 X and 7.6003 Y> ft/sec
-Ball b4: position <59.74, 115.53>		velocity <4.7502 X and 8.5503 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <34.70, 94.29>		velocity <2.7934 X and 6.5179 Y> ft/sec
-Ball b3: position <49.59, 109.19>		velocity <3.7245 X and 7.4490 Y> ft/sec
-Ball b4: position <64.49, 124.09>		velocity <4.6556 X and 8.3802 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <37.49, 100.81>		velocity <2.7378 X and 6.3882 Y> ft/sec
-Ball b3: position <53.32, 116.64>		velocity <3.6504 X and 7.3008 Y> ft/sec
-Ball b4: position <69.15, 132.47>		velocity <4.5630 X and 8.2134 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <40.23, 107.19>		velocity <2.6833 X and 6.2611 Y> ft/sec
-Ball b3: position <56.97, 123.94>		velocity <3.5778 X and 7.1555 Y> ft/sec
-Ball b4: position <73.71, 140.68>		velocity <4.4722 X and 8.0499 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <42.91, 113.46>		velocity <2.6299 X and 6.1365 Y> ft/sec
-Ball b3: position <60.55, 131.09>		velocity <3.5066 X and 7.0131 Y> ft/sec
-Ball b4: position <78.18, 148.73>		velocity <4.3832 X and 7.8898 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <45.54, 119.59>		velocity <2.5776 X and 6.0144 Y> ft/sec
-Ball b3: position <64.05, 138.11>		velocity <3.4368 X and 6.8736 Y> ft/sec
-Ball b4: position <82.57, 156.62>		velocity <4.2960 X and 7.7327 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <48.12, 125.61>		velocity <2.5263 X and 5.8947 Y> ft/sec
-Ball b3: position <67.49, 144.98>		velocity <3.3684 X and 6.7368 Y> ft/sec
-Ball b4: position <86.86, 164.35>		velocity <4.2105 X and 7.5789 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <50.64, 131.50>		velocity <2.4760 X and 5.7774 Y> ft/sec
-Ball b3: position <70.86, 151.72>		velocity <3.3014 X and 6.6027 Y> ft/sec
-Ball b4: position <91.07, 171.93>		velocity <4.1267 X and 7.4280 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <53.12, 137.28>		velocity <2.4267 X and 5.6624 Y> ft/sec
-Ball b3: position <74.16, 158.32>		velocity <3.2357 X and 6.4713 Y> ft/sec
-Ball b4: position <95.20, 179.36>		velocity <4.0446 X and 7.2802 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <55.55, 142.94>		velocity <2.3785 X and 5.5497 Y> ft/sec
-Ball b3: position <77.39, 164.79>		velocity <3.1713 X and 6.3425 Y> ft/sec
-Ball b4: position <99.24, 186.64>		velocity <3.9641 X and 7.1354 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <57.92, 148.49>		velocity <2.3311 X and 5.4393 Y> ft/sec
-Ball b3: position <80.57, 171.13>		velocity <3.1082 X and 6.2163 Y> ft/sec
-Ball b4: position <103.21, 193.77>	velocity <3.8852 X and 6.9934 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <60.26, 153.93>		velocity <2.2847 X and 5.3310 Y> ft/sec
-Ball b3: position <83.67, 177.35>		velocity <3.0463 X and 6.0926 Y> ft/sec
-Ball b4: position <107.09, 200.77>	velocity <3.8079 X and 6.8542 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <62.54, 159.26>		velocity <2.2393 X and 5.2250 Y> ft/sec
-Ball b3: position <86.72, 183.44>		velocity <2.9857 X and 5.9714 Y> ft/sec
-Ball b4: position <110.90, 207.62>	velocity <3.7321 X and 6.7178 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <64.78, 164.49>		velocity <2.1947 X and 5.1210 Y> ft/sec
-Ball b3: position <89.71, 189.41>		velocity <2.9263 X and 5.8525 Y> ft/sec
-Ball b4: position <114.63, 214.34>	velocity <3.6578 X and 6.5841 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <66.97, 169.61>		velocity <2.1510 X and 5.0191 Y> ft/sec
-Ball b3: position <92.63, 195.27>		velocity <2.8680 X and 5.7361 Y> ft/sec
-Ball b4: position <118.29, 220.92>	velocity <3.5850 X and 6.4531 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <69.13, 174.63>		velocity <2.1082 X and 4.9192 Y> ft/sec
-Ball b3: position <95.50, 201.00>		velocity <2.8110 X and 5.6219 Y> ft/sec
-Ball b4: position <121.88, 227.38>	velocity <3.5137 X and 6.3247 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <71.23, 179.55>		velocity <2.0663 X and 4.8213 Y> ft/sec
-Ball b3: position <98.31, 206.62>		velocity <2.7550 X and 5.5101 Y> ft/sec
-Ball b4: position <125.39, 233.70>	velocity <3.4438 X and 6.1988 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <73.30, 184.37>		velocity <2.0252 X and 4.7254 Y> ft/sec
-Ball b3: position <101.07, 212.13>	velocity <2.7002 X and 5.4004 Y> ft/sec
-Ball b4: position <128.83, 239.90>	velocity <3.3753 X and 6.0755 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <75.33, 189.09>		velocity <1.9849 X and 4.6313 Y> ft/sec
-Ball b3: position <103.77, 217.53>	velocity <2.6465 X and 5.2929 Y> ft/sec
-Ball b4: position <132.21, 245.98>	velocity <3.3081 X and 5.9546 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <77.31, 193.72>		velocity <1.9454 X and 4.5392 Y> ft/sec
-Ball b3: position <106.41, 222.83>	velocity <2.5938 X and 5.1876 Y> ft/sec
-Ball b4: position <135.52, 251.93>	velocity <3.2423 X and 5.8361 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <79.26, 198.26>		velocity <1.9066 X and 4.4488 Y> ft/sec
-Ball b3: position <109.01, 228.01>	velocity <2.5422 X and 5.0844 Y> ft/sec
-Ball b4: position <138.76, 257.77>	velocity <3.1777 X and 5.7199 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <81.16, 202.71>		velocity <1.8687 X and 4.3603 Y> ft/sec
-Ball b3: position <111.55, 233.10>	velocity <2.4916 X and 4.9832 Y> ft/sec
-Ball b4: position <141.94, 263.49>	velocity <3.1145 X and 5.6061 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <83.03, 207.07>		velocity <1.8315 X and 4.2735 Y> ft/sec
-Ball b3: position <114.04, 238.08>	velocity <2.4420 X and 4.8840 Y> ft/sec
-Ball b4: position <145.05, 269.09>	velocity <3.0525 X and 5.4945 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <84.86, 211.34>		velocity <1.7951 X and 4.1885 Y> ft/sec
-Ball b3: position <116.48, 242.97>	velocity <2.3934 X and 4.7868 Y> ft/sec
-Ball b4: position <148.10, 274.59>	velocity <2.9918 X and 5.3852 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <86.66, 215.53>		velocity <1.7593 X and 4.1051 Y> ft/sec
-Ball b3: position <118.88, 247.75>	velocity <2.3458 X and 4.6916 Y> ft/sec
-Ball b4: position <151.10, 279.97>	velocity <2.9322 X and 5.2780 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <88.42, 219.64>		velocity <1.7243 X and 4.0234 Y> ft/sec
-Ball b3: position <121.22, 252.44>	velocity <2.2991 X and 4.5982 Y> ft/sec
-Ball b4: position <154.03, 285.25>	velocity <2.8739 X and 5.1730 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <90.14, 223.66>		velocity <1.6900 X and 3.9434 Y> ft/sec
-Ball b3: position <123.52, 257.04>	velocity <2.2534 X and 4.5067 Y> ft/sec
-Ball b4: position <156.90, 290.42>	velocity <2.8167 X and 5.0700 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <91.83, 227.61>		velocity <1.6564 X and 3.8649 Y> ft/sec
-Ball b3: position <125.77, 261.55>	velocity <2.2085 X and 4.4170 Y> ft/sec
-Ball b4: position <159.72, 295.49>	velocity <2.7606 X and 4.9692 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <93.49, 231.47>		velocity <1.6234 X and 3.7880 Y> ft/sec
-Ball b3: position <127.98, 265.97>	velocity <2.1646 X and 4.3291 Y> ft/sec
-Ball b4: position <162.48, 300.46>	velocity <2.7057 X and 4.8703 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <95.11, 235.26>		velocity <1.5911 X and 3.7126 Y> ft/sec
-Ball b3: position <130.15, 270.30>	velocity <2.1215 X and 4.2430 Y> ft/sec
-Ball b4: position <165.18, 305.33>	velocity <2.6519 X and 4.7734 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <96.70, 238.97>		velocity <1.5595 X and 3.6387 Y> ft/sec
-Ball b3: position <132.27, 274.54>	velocity <2.0793 X and 4.1585 Y> ft/sec
-Ball b4: position <167.84, 310.11>	velocity <2.5991 X and 4.6784 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <98.26, 242.61>		velocity <1.5284 X and 3.5663 Y> ft/sec
-Ball b3: position <134.35, 278.70>	velocity <2.0379 X and 4.0758 Y> ft/sec
-Ball b4: position <170.44, 314.78>	velocity <2.5474 X and 4.5853 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <99.79, 246.18>		velocity <1.4980 X and 3.4953 Y> ft/sec
-Ball b3: position <136.39, 282.77>	velocity <1.9973 X and 3.9947 Y> ft/sec
-Ball b4: position <172.98, 319.37>	velocity <2.4967 X and 4.4940 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <101.29, 249.67>	velocity <1.4682 X and 3.4258 Y> ft/sec
-Ball b3: position <138.38, 286.77>	velocity <1.9576 X and 3.9152 Y> ft/sec
-Ball b4: position <175.48, 323.86>	velocity <2.4470 X and 4.4046 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <102.76, 253.10>	velocity <1.4390 X and 3.3576 Y> ft/sec
-Ball b3: position <140.34, 290.68>	velocity <1.9186 X and 3.8373 Y> ft/sec
-Ball b4: position <177.93, 328.27>	velocity <2.3983 X and 4.3169 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <104.19, 256.45>	velocity <1.4103 X and 3.2908 Y> ft/sec
-Ball b3: position <142.26, 294.52>	velocity <1.8805 X and 3.7609 Y> ft/sec
-Ball b4: position <180.32, 332.58>	velocity <2.3506 X and 4.2310 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <105.61, 259.75>	velocity <1.3823 X and 3.2253 Y> ft/sec
-Ball b3: position <144.14, 298.28>	velocity <1.8430 X and 3.6861 Y> ft/sec
-Ball b4: position <182.68, 336.82>	velocity <2.3038 X and 4.1468 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <106.99, 262.97>	velocity <1.3548 X and 3.1611 Y> ft/sec
-Ball b3: position <145.98, 301.97>	velocity <1.8064 X and 3.6127 Y> ft/sec
-Ball b4: position <184.98, 340.96>	velocity <2.2579 X and 4.0643 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <108.34, 266.13>	velocity <1.3278 X and 3.0982 Y> ft/sec
-Ball b3: position <147.79, 305.58>	velocity <1.7704 X and 3.5408 Y> ft/sec
-Ball b4: position <187.24, 345.03>	velocity <2.2130 X and 3.9834 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <109.67, 269.23>	velocity <1.3014 X and 3.0366 Y> ft/sec
-Ball b3: position <149.56, 309.12>	velocity <1.7352 X and 3.4704 Y> ft/sec
-Ball b4: position <189.45, 349.01>	velocity <2.1690 X and 3.9042 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <110.97, 272.27>	velocity <1.2755 X and 2.9761 Y> ft/sec
-Ball b3: position <151.30, 312.59>	velocity <1.7007 X and 3.4013 Y> ft/sec
-Ball b4: position <191.62, 352.91>	velocity <2.1258 X and 3.8265 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <112.25, 275.24>	velocity <1.2501 X and 2.9169 Y> ft/sec
-Ball b3: position <153.00, 315.99>	velocity <1.6668 X and 3.3336 Y> ft/sec
-Ball b4: position <193.74, 356.74>	velocity <2.0835 X and 3.7503 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <113.50, 278.16>	velocity <1.2252 X and 2.8589 Y> ft/sec
-Ball b3: position <154.66, 319.33>	velocity <1.6336 X and 3.2673 Y> ft/sec
-Ball b4: position <195.83, 360.49>	velocity <2.0420 X and 3.6757 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <114.72, 281.02>	velocity <1.2008 X and 2.8020 Y> ft/sec
-Ball b3: position <156.30, 322.59>	velocity <1.6011 X and 3.2023 Y> ft/sec
-Ball b4: position <197.87, 364.17>	velocity <2.0014 X and 3.6025 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <115.92, 283.82>	velocity <1.1769 X and 2.7462 Y> ft/sec
-Ball b3: position <157.90, 325.79>	velocity <1.5693 X and 3.1385 Y> ft/sec
-Ball b4: position <199.87, 367.77>	velocity <1.9616 X and 3.5308 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <117.10, 286.57>	velocity <1.1535 X and 2.6916 Y> ft/sec
-Ball b3: position <159.47, 328.93>	velocity <1.5380 X and 3.0761 Y> ft/sec
-Ball b4: position <201.83, 371.30>	velocity <1.9225 X and 3.4606 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <118.25, 289.26>	velocity <1.1306 X and 2.6380 Y> ft/sec
-Ball b3: position <161.00, 332.01>	velocity <1.5074 X and 3.0149 Y> ft/sec
-Ball b4: position <203.76, 374.76>	velocity <1.8843 X and 3.3917 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <119.38, 291.90>	velocity <1.1081 X and 2.5855 Y> ft/sec
-Ball b3: position <162.51, 335.02>	velocity <1.4774 X and 2.9549 Y> ft/sec
-Ball b4: position <205.64, 378.15>	velocity <1.8468 X and 3.3242 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <120.49, 294.48>	velocity <1.0860 X and 2.5341 Y> ft/sec
-Ball b3: position <163.99, 337.98>	velocity <1.4480 X and 2.8961 Y> ft/sec
-Ball b4: position <207.49, 381.48>	velocity <1.8100 X and 3.2581 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <121.58, 297.02>	velocity <1.0644 X and 2.4836 Y> ft/sec
-Ball b3: position <165.44, 340.88>	velocity <1.4192 X and 2.8384 Y> ft/sec
-Ball b4: position <209.30, 384.73>	velocity <1.7740 X and 3.1932 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <122.64, 299.50>	velocity <1.0432 X and 2.4342 Y> ft/sec
-Ball b3: position <166.86, 343.71>	velocity <1.3910 X and 2.7819 Y> ft/sec
-Ball b4: position <211.07, 387.93>	velocity <1.7387 X and 3.1297 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <123.69, 301.93>	velocity <1.0225 X and 2.3858 Y> ft/sec
-Ball b3: position <168.25, 346.50>	velocity <1.3633 X and 2.7266 Y> ft/sec
-Ball b4: position <212.81, 391.06>	velocity <1.7041 X and 3.0674 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <124.71, 304.32>	velocity <1.0021 X and 2.3383 Y> ft/sec
-Ball b3: position <169.61, 349.22>	velocity <1.3362 X and 2.6723 Y> ft/sec
-Ball b4: position <214.51, 394.13>	velocity <1.6702 X and 3.0064 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <125.71, 306.66>	velocity <0.9822 X and 2.2918 Y> ft/sec
-Ball b3: position <170.95, 351.89>	velocity <1.3096 X and 2.6191 Y> ft/sec
-Ball b4: position <216.18, 397.13>	velocity <1.6370 X and 2.9465 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <126.69, 308.95>	velocity <0.9626 X and 2.2461 Y> ft/sec
-Ball b3: position <172.26, 354.51>	velocity <1.2835 X and 2.5670 Y> ft/sec
-Ball b4: position <217.82, 400.08>	velocity <1.6044 X and 2.8879 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <127.66, 311.20>	velocity <0.9435 X and 2.2015 Y> ft/sec
-Ball b3: position <173.54, 357.08>	velocity <1.2580 X and 2.5159 Y> ft/sec
-Ball b4: position <219.43, 402.97>	velocity <1.5725 X and 2.8304 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <128.60, 313.40>	velocity <0.9247 X and 2.1576 Y> ft/sec
-Ball b3: position <174.80, 359.60>	velocity <1.2329 X and 2.4659 Y> ft/sec
-Ball b4: position <221.00, 405.80>	velocity <1.5412 X and 2.7741 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <129.52, 315.55>	velocity <0.9063 X and 2.1147 Y> ft/sec
-Ball b3: position <176.03, 362.06>	velocity <1.2084 X and 2.4168 Y> ft/sec
-Ball b4: position <222.54, 408.57>	velocity <1.5105 X and 2.7189 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <130.43, 317.67>	velocity <0.8883 X and 2.0726 Y> ft/sec
-Ball b3: position <177.24, 364.48>	velocity <1.1844 X and 2.3687 Y> ft/sec
-Ball b4: position <224.05, 411.29>	velocity <1.4804 X and 2.6648 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <131.32, 319.74>	velocity <0.8706 X and 2.0314 Y> ft/sec
-Ball b3: position <178.42, 366.85>	velocity <1.1608 X and 2.3216 Y> ft/sec
-Ball b4: position <225.53, 413.95>	velocity <1.4510 X and 2.6118 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <132.19, 321.77>	velocity <0.8533 X and 1.9910 Y> ft/sec
-Ball b3: position <179.58, 369.17>	velocity <1.1377 X and 2.2754 Y> ft/sec
-Ball b4: position <226.98, 416.57>	velocity <1.4221 X and 2.5598 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <133.04, 323.76>	velocity <0.8363 X and 1.9513 Y> ft/sec
-Ball b3: position <180.72, 371.45>	velocity <1.1150 X and 2.2301 Y> ft/sec
-Ball b4: position <228.40, 419.13>	velocity <1.3938 X and 2.5089 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <133.88, 325.72>	velocity <0.8196 X and 1.9125 Y> ft/sec
-Ball b3: position <181.84, 373.68>	velocity <1.0929 X and 2.1857 Y> ft/sec
-Ball b4: position <229.80, 421.63>	velocity <1.3661 X and 2.4589 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <134.70, 327.63>	velocity <0.8033 X and 1.8744 Y> ft/sec
-Ball b3: position <182.93, 375.86>	velocity <1.0711 X and 2.1422 Y> ft/sec
-Ball b4: position <231.16, 424.09>	velocity <1.3389 X and 2.4100 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <135.50, 329.50>	velocity <0.7873 X and 1.8371 Y> ft/sec
-Ball b3: position <184.00, 378.00>	velocity <1.0498 X and 2.0996 Y> ft/sec
-Ball b4: position <232.50, 426.50>	velocity <1.3122 X and 2.3620 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <136.29, 331.34>	velocity <0.7717 X and 1.8006 Y> ft/sec
-Ball b3: position <185.05, 380.10>	velocity <1.0289 X and 2.0578 Y> ft/sec
-Ball b4: position <233.81, 428.87>	velocity <1.2861 X and 2.3150 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <137.06, 333.14>	velocity <0.7563 X and 1.7648 Y> ft/sec
-Ball b3: position <186.08, 382.16>	velocity <1.0084 X and 2.0169 Y> ft/sec
-Ball b4: position <235.10, 431.18>	velocity <1.2605 X and 2.2690 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <137.82, 334.91>	velocity <0.7413 X and 1.7296 Y> ft/sec
-Ball b3: position <187.09, 384.18>	velocity <0.9884 X and 1.9767 Y> ft/sec
-Ball b4: position <236.36, 433.45>	velocity <1.2355 X and 2.2238 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <138.56, 336.63>	velocity <0.7265 X and 1.6952 Y> ft/sec
-Ball b3: position <188.08, 386.15>	velocity <0.9687 X and 1.9374 Y> ft/sec
-Ball b4: position <237.60, 435.67>	velocity <1.2109 X and 2.1796 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <139.28, 338.33>	velocity <0.7121 X and 1.6615 Y> ft/sec
-Ball b3: position <189.05, 388.09>	velocity <0.9494 X and 1.8988 Y> ft/sec
-Ball b4: position <238.81, 437.85>	velocity <1.1868 X and 2.1362 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <140.00, 339.99>	velocity <0.6979 X and 1.6284 Y> ft/sec
-Ball b3: position <190.00, 389.99>	velocity <0.9305 X and 1.8610 Y> ft/sec
-Ball b4: position <239.99, 439.99>	velocity <1.1632 X and 2.0937 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <140.69, 341.62>	velocity <0.6840 X and 1.5960 Y> ft/sec
-Ball b3: position <190.93, 391.85>	velocity <0.9120 X and 1.8240 Y> ft/sec
-Ball b4: position <241.16, 442.08>	velocity <1.1400 X and 2.0520 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <141.38, 343.22>	velocity <0.6704 X and 1.5642 Y> ft/sec
-Ball b3: position <191.84, 393.68>	velocity <0.8939 X and 1.7877 Y> ft/sec
-Ball b4: position <242.30, 444.13>	velocity <1.1173 X and 2.0112 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <142.05, 344.78>	velocity <0.6571 X and 1.5331 Y> ft/sec
-Ball b3: position <192.73, 395.46>	velocity <0.8761 X and 1.7521 Y> ft/sec
-Ball b4: position <243.41, 446.15>	velocity <1.0951 X and 1.9712 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <142.71, 346.31>	velocity <0.6440 X and 1.5026 Y> ft/sec
-Ball b3: position <193.61, 397.22>	velocity <0.8586 X and 1.7173 Y> ft/sec
-Ball b4: position <244.51, 448.12>	velocity <1.0733 X and 1.9319 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <143.35, 347.82>	velocity <0.6312 X and 1.4727 Y> ft/sec
-Ball b3: position <194.47, 398.93>	velocity <0.8415 X and 1.6831 Y> ft/sec
-Ball b4: position <245.58, 450.05>	velocity <1.0519 X and 1.8935 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <143.98, 349.29>	velocity <0.6186 X and 1.4434 Y> ft/sec
-Ball b3: position <195.31, 400.62>	velocity <0.8248 X and 1.6496 Y> ft/sec
-Ball b4: position <246.63, 451.94>	velocity <1.0310 X and 1.8558 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <144.60, 350.73>	velocity <0.6063 X and 1.4147 Y> ft/sec
-Ball b3: position <196.13, 402.27>	velocity <0.8084 X and 1.6168 Y> ft/sec
-Ball b4: position <247.67, 453.80>	velocity <1.0105 X and 1.8189 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <145.21, 352.15>	velocity <0.5942 X and 1.3865 Y> ft/sec
-Ball b3: position <196.94, 403.88>	velocity <0.7923 X and 1.5846 Y> ft/sec
-Ball b4: position <248.68, 455.62>	velocity <0.9904 X and 1.7827 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <145.80, 353.53>	velocity <0.5824 X and 1.3589 Y> ft/sec
-Ball b3: position <197.73, 405.47>	velocity <0.7765 X and 1.5531 Y> ft/sec
-Ball b4: position <249.67, 457.40>	velocity <0.9707 X and 1.7472 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <146.38, 354.89>	velocity <0.5708 X and 1.3319 Y> ft/sec
-Ball b3: position <198.51, 407.02>	velocity <0.7611 X and 1.5222 Y> ft/sec
-Ball b4: position <250.64, 459.15>	velocity <0.9514 X and 1.7124 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <146.95, 356.22>	velocity <0.5595 X and 1.3054 Y> ft/sec
-Ball b3: position <199.27, 408.54>	velocity <0.7459 X and 1.4919 Y> ft/sec
-Ball b4: position <251.59, 460.86>	velocity <0.9324 X and 1.6784 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <147.51, 357.53>	velocity <0.5483 X and 1.2794 Y> ft/sec
-Ball b3: position <200.02, 410.03>	velocity <0.7311 X and 1.4622 Y> ft/sec
-Ball b4: position <252.52, 462.54>	velocity <0.9139 X and 1.6450 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <148.06, 358.81>	velocity <0.5374 X and 1.2539 Y> ft/sec
-Ball b3: position <200.75, 411.50>	velocity <0.7165 X and 1.4331 Y> ft/sec
-Ball b4: position <253.43, 464.18>	velocity <0.8957 X and 1.6122 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <148.60, 360.06>	velocity <0.5267 X and 1.2290 Y> ft/sec
-Ball b3: position <201.46, 412.93>	velocity <0.7023 X and 1.4046 Y> ft/sec
-Ball b4: position <254.33, 465.80>	velocity <0.8779 X and 1.5801 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <149.13, 361.29>	velocity <0.5162 X and 1.2045 Y> ft/sec
-Ball b3: position <202.17, 414.33>	velocity <0.6883 X and 1.3766 Y> ft/sec
-Ball b4: position <255.21, 467.38>	velocity <0.8604 X and 1.5487 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <149.64, 362.50>	velocity <0.5060 X and 1.1806 Y> ft/sec
-Ball b3: position <202.86, 415.71>	velocity <0.6746 X and 1.3492 Y> ft/sec
-Ball b4: position <256.07, 468.92>	velocity <0.8433 X and 1.5179 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <150.15, 363.68>	velocity <0.4959 X and 1.1571 Y> ft/sec
-Ball b3: position <203.53, 417.06>	velocity <0.6612 X and 1.3224 Y> ft/sec
-Ball b4: position <256.91, 470.44>	velocity <0.8265 X and 1.4877 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <150.64, 364.83>	velocity <0.4860 X and 1.1340 Y> ft/sec
-Ball b3: position <204.19, 418.38>	velocity <0.6480 X and 1.2961 Y> ft/sec
-Ball b4: position <257.74, 471.93>	velocity <0.8100 X and 1.4581 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <151.13, 365.97>	velocity <0.4763 X and 1.1115 Y> ft/sec
-Ball b3: position <204.84, 419.68>	velocity <0.6351 X and 1.2703 Y> ft/sec
-Ball b4: position <258.55, 473.39>	velocity <0.7939 X and 1.4290 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <151.61, 367.08>	velocity <0.4669 X and 1.0894 Y> ft/sec
-Ball b3: position <205.47, 420.95>	velocity <0.6225 X and 1.2450 Y> ft/sec
-Ball b4: position <259.34, 474.82>	velocity <0.7781 X and 1.4006 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <152.07, 368.17>	velocity <0.4576 X and 1.0677 Y> ft/sec
-Ball b3: position <206.10, 422.19>	velocity <0.6101 X and 1.2202 Y> ft/sec
-Ball b4: position <260.12, 476.22>	velocity <0.7626 X and 1.3727 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <152.53, 369.24>	velocity <0.4485 X and 1.0464 Y> ft/sec
-Ball b3: position <206.71, 423.41>	velocity <0.5980 X and 1.1959 Y> ft/sec
-Ball b4: position <260.88, 477.59>	velocity <0.7475 X and 1.3454 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <152.98, 370.28>	velocity <0.4395 X and 1.0256 Y> ft/sec
-Ball b3: position <207.30, 424.61>	velocity <0.5861 X and 1.1721 Y> ft/sec
-Ball b4: position <261.63, 478.94>	velocity <0.7326 X and 1.3186 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <153.42, 371.31>	velocity <0.4308 X and 1.0052 Y> ft/sec
-Ball b3: position <207.89, 425.78>	velocity <0.5744 X and 1.1488 Y> ft/sec
-Ball b4: position <262.36, 480.25>	velocity <0.7180 X and 1.2924 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <153.85, 372.31>	velocity <0.4222 X and 0.9852 Y> ft/sec
-Ball b3: position <208.47, 426.93>	velocity <0.5630 X and 1.1259 Y> ft/sec
-Ball b4: position <263.08, 481.55>	velocity <0.7037 X and 1.2667 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <154.27, 373.30>	velocity <0.4138 X and 0.9656 Y> ft/sec
-Ball b3: position <209.03, 428.06>	velocity <0.5518 X and 1.1035 Y> ft/sec
-Ball b4: position <263.79, 482.81>	velocity <0.6897 X and 1.2415 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <154.68, 374.26>	velocity <0.4056 X and 0.9464 Y> ft/sec
-Ball b3: position <209.58, 429.16>	velocity <0.5408 X and 1.0816 Y> ft/sec
-Ball b4: position <264.47, 484.05>	velocity <0.6760 X and 1.2168 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <155.09, 375.21>	velocity <0.3975 X and 0.9275 Y> ft/sec
-Ball b3: position <210.12, 430.24>	velocity <0.5300 X and 1.0601 Y> ft/sec
-Ball b4: position <265.15, 485.27>	velocity <0.6625 X and 1.1926 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <155.49, 376.14>	velocity <0.3896 X and 0.9091 Y> ft/sec
-Ball b3: position <210.65, 431.30>	velocity <0.5195 X and 1.0390 Y> ft/sec
-Ball b4: position <265.81, 486.46>	velocity <0.6493 X and 1.1688 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <155.88, 377.05>	velocity <0.3819 X and 0.8910 Y> ft/sec
-Ball b3: position <211.17, 432.34>	velocity <0.5091 X and 1.0183 Y> ft/sec
-Ball b4: position <266.46, 487.63>	velocity <0.6364 X and 1.1456 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <156.26, 377.94>	velocity <0.3743 X and 0.8733 Y> ft/sec
-Ball b3: position <211.68, 433.36>	velocity <0.4990 X and 0.9980 Y> ft/sec
-Ball b4: position <267.10, 488.78>	velocity <0.6238 X and 1.1228 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <156.63, 378.81>	velocity <0.3668 X and 0.8559 Y> ft/sec
-Ball b3: position <212.18, 434.36>	velocity <0.4891 X and 0.9782 Y> ft/sec
-Ball b4: position <267.72, 489.90>	velocity <0.6113 X and 1.1004 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <157.00, 379.67>	velocity <0.3595 X and 0.8389 Y> ft/sec
-Ball b3: position <212.67, 435.33>	velocity <0.4793 X and 0.9587 Y> ft/sec
-Ball b4: position <268.33, 491.00>	velocity <0.5992 X and 1.0785 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <157.36, 380.51>	velocity <0.3524 X and 0.8222 Y> ft/sec
-Ball b3: position <213.15, 436.29>	velocity <0.4698 X and 0.9396 Y> ft/sec
-Ball b4: position <268.93, 492.08>	velocity <0.5873 X and 1.0571 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <157.71, 381.33>	velocity <0.3453 X and 0.8058 Y> ft/sec
-Ball b3: position <213.62, 437.23>	velocity <0.4605 X and 0.9209 Y> ft/sec
-Ball b4: position <269.52, 493.14>	velocity <0.5756 X and 1.0360 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <158.06, 382.13>	velocity <0.3385 X and 0.7898 Y> ft/sec
-Ball b3: position <214.08, 438.15>	velocity <0.4513 X and 0.9026 Y> ft/sec
-Ball b4: position <270.10, 494.17>	velocity <0.5641 X and 1.0154 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <158.40, 382.92>	velocity <0.3317 X and 0.7741 Y> ft/sec
-Ball b3: position <214.53, 439.06>	velocity <0.4423 X and 0.8846 Y> ft/sec
-Ball b4: position <270.66, 495.19>	velocity <0.5529 X and 0.9952 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <158.73, 383.70>	velocity <0.3251 X and 0.7586 Y> ft/sec
-Ball b3: position <214.97, 439.94>	velocity <0.4335 X and 0.8670 Y> ft/sec
-Ball b4: position <271.21, 496.18>	velocity <0.5419 X and 0.9754 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <159.05, 384.46>	velocity <0.3187 X and 0.7435 Y> ft/sec
-Ball b3: position <215.40, 440.81>	velocity <0.4249 X and 0.8498 Y> ft/sec
-Ball b4: position <271.76, 497.16>	velocity <0.5311 X and 0.9560 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <159.37, 385.20>	velocity <0.3123 X and 0.7288 Y> ft/sec
-Ball b3: position <215.83, 441.66>	velocity <0.4164 X and 0.8329 Y> ft/sec
-Ball b4: position <272.29, 498.12>	velocity <0.5205 X and 0.9370 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <159.68, 385.93>	velocity <0.3061 X and 0.7143 Y> ft/sec
-Ball b3: position <216.25, 442.49>	velocity <0.4081 X and 0.8163 Y> ft/sec
-Ball b4: position <272.81, 499.05>	velocity <0.5102 X and 0.9183 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <159.99, 386.64>	velocity <0.3000 X and 0.7000 Y> ft/sec
-Ball b3: position <216.65, 443.31>	velocity <0.4000 X and 0.8000 Y> ft/sec
-Ball b4: position <273.32, 499.97>	velocity <0.5000 X and 0.9000 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <160.29, 387.34>	velocity <0.2940 X and 0.6861 Y> ft/sec
-Ball b3: position <217.05, 444.11>	velocity <0.3921 X and 0.7841 Y> ft/sec
-Ball b4: position <273.82, 500.87>	velocity <0.4901 X and 0.8821 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <160.58, 388.03>	velocity <0.2882 X and 0.6725 Y> ft/sec
-Ball b3: position <217.45, 444.89>	velocity <0.3843 X and 0.7685 Y> ft/sec
-Ball b4: position <274.31, 501.75>	velocity <0.4803 X and 0.8646 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <160.87, 388.70>	velocity <0.2825 X and 0.6591 Y> ft/sec
-Ball b3: position <217.83, 445.66>	velocity <0.3766 X and 0.7532 Y> ft/sec
-Ball b4: position <274.79, 502.62>	velocity <0.4708 X and 0.8474 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <161.15, 389.36>	velocity <0.2768 X and 0.6460 Y> ft/sec
-Ball b3: position <218.21, 446.41>	velocity <0.3691 X and 0.7382 Y> ft/sec
-Ball b4: position <275.26, 503.46>	velocity <0.4614 X and 0.8305 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <161.43, 390.01>	velocity <0.2713 X and 0.6331 Y> ft/sec
-Ball b3: position <218.58, 447.15>	velocity <0.3618 X and 0.7235 Y> ft/sec
-Ball b4: position <275.72, 504.30>	velocity <0.4522 X and 0.8140 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <161.70, 390.64>	velocity <0.2659 X and 0.6205 Y> ft/sec
-Ball b3: position <218.94, 447.87>	velocity <0.3546 X and 0.7091 Y> ft/sec
-Ball b4: position <276.17, 505.11>	velocity <0.4432 X and 0.7978 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <161.97, 391.26>	velocity <0.2606 X and 0.6082 Y> ft/sec
-Ball b3: position <219.29, 448.58>	velocity <0.3475 X and 0.6950 Y> ft/sec
-Ball b4: position <276.61, 505.91>	velocity <0.4344 X and 0.7819 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <162.23, 391.87>	velocity <0.2555 X and 0.5961 Y> ft/sec
-Ball b3: position <219.64, 449.28>	velocity <0.3406 X and 0.6812 Y> ft/sec
-Ball b4: position <277.05, 506.69>	velocity <0.4258 X and 0.7664 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <162.49, 392.47>	velocity <0.2504 X and 0.5842 Y> ft/sec
-Ball b3: position <219.98, 449.96>	velocity <0.3338 X and 0.6676 Y> ft/sec
-Ball b4: position <277.48, 507.46>	velocity <0.4173 X and 0.7511 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <162.74, 393.05>	velocity <0.2454 X and 0.5726 Y> ft/sec
-Ball b3: position <220.31, 450.63>	velocity <0.3272 X and 0.6544 Y> ft/sec
-Ball b4: position <277.89, 508.21>	velocity <0.4090 X and 0.7362 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <162.98, 393.62>	velocity <0.2405 X and 0.5612 Y> ft/sec
-Ball b3: position <220.64, 451.28>	velocity <0.3207 X and 0.6413 Y> ft/sec
-Ball b4: position <278.30, 508.94>	velocity <0.4008 X and 0.7215 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <163.22, 394.18>	velocity <0.2357 X and 0.5500 Y> ft/sec
-Ball b3: position <220.96, 451.92>	velocity <0.3143 X and 0.6286 Y> ft/sec
-Ball b4: position <278.70, 509.66>	velocity <0.3929 X and 0.7071 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <163.46, 394.73>	velocity <0.2310 X and 0.5391 Y> ft/sec
-Ball b3: position <221.28, 452.55>	velocity <0.3080 X and 0.6161 Y> ft/sec
-Ball b4: position <279.10, 510.37>	velocity <0.3850 X and 0.6931 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <163.69, 395.27>	velocity <0.2264 X and 0.5283 Y> ft/sec
-Ball b3: position <221.58, 453.17>	velocity <0.3019 X and 0.6038 Y> ft/sec
-Ball b4: position <279.48, 511.06>	velocity <0.3774 X and 0.6793 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <163.91, 395.80>	velocity <0.2219 X and 0.5178 Y> ft/sec
-Ball b3: position <221.89, 453.77>	velocity <0.2959 X and 0.5918 Y> ft/sec
-Ball b4: position <279.86, 511.74>	velocity <0.3699 X and 0.6658 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <164.14, 396.32>	velocity <0.2175 X and 0.5075 Y> ft/sec
-Ball b3: position <222.18, 454.36>	velocity <0.2900 X and 0.5800 Y> ft/sec
-Ball b4: position <280.23, 512.41>	velocity <0.3625 X and 0.6525 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <164.35, 396.83>	velocity <0.2132 X and 0.4974 Y> ft/sec
-Ball b3: position <222.47, 454.94>	velocity <0.2842 X and 0.5685 Y> ft/sec
-Ball b4: position <280.59, 513.06>	velocity <0.3553 X and 0.6395 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <164.57, 397.32>	velocity <0.2089 X and 0.4875 Y> ft/sec
-Ball b3: position <222.76, 455.51>	velocity <0.2786 X and 0.5572 Y> ft/sec
-Ball b4: position <280.95, 513.70>	velocity <0.3482 X and 0.6268 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <164.78, 397.81>	velocity <0.2048 X and 0.4778 Y> ft/sec
-Ball b3: position <223.03, 456.07>	velocity <0.2730 X and 0.5461 Y> ft/sec
-Ball b4: position <281.29, 514.33>	velocity <0.3413 X and 0.6143 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <164.98, 398.29>	velocity <0.2007 X and 0.4683 Y> ft/sec
-Ball b3: position <223.31, 456.62>	velocity <0.2676 X and 0.5352 Y> ft/sec
-Ball b4: position <281.63, 514.94>	velocity <0.3345 X and 0.6021 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <165.18, 398.76>	velocity <0.1967 X and 0.4590 Y> ft/sec
-Ball b3: position <223.58, 457.15>	velocity <0.2623 X and 0.5246 Y> ft/sec
-Ball b4: position <281.97, 515.54>	velocity <0.3278 X and 0.5901 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <165.38, 399.22>	velocity <0.1928 X and 0.4499 Y> ft/sec
-Ball b3: position <223.84, 457.68>	velocity <0.2571 X and 0.5141 Y> ft/sec
-Ball b4: position <282.30, 516.13>	velocity <0.3213 X and 0.5784 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <165.57, 399.67>	velocity <0.1890 X and 0.4409 Y> ft/sec
-Ball b3: position <224.09, 458.19>	velocity <0.2519 X and 0.5039 Y> ft/sec
-Ball b4: position <282.62, 516.71>	velocity <0.3149 X and 0.5669 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <165.76, 400.11>	velocity <0.1852 X and 0.4321 Y> ft/sec
-Ball b3: position <224.35, 458.69>	velocity <0.2469 X and 0.4939 Y> ft/sec
-Ball b4: position <282.93, 517.28>	velocity <0.3087 X and 0.5556 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <165.95, 400.54>	velocity <0.1815 X and 0.4235 Y> ft/sec
-Ball b3: position <224.59, 459.19>	velocity <0.2420 X and 0.4840 Y> ft/sec
-Ball b4: position <283.24, 517.84>	velocity <0.3025 X and 0.5445 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <166.13, 400.96>	velocity <0.1779 X and 0.4151 Y> ft/sec
-Ball b3: position <224.84, 459.67>	velocity <0.2372 X and 0.4744 Y> ft/sec
-Ball b4: position <283.54, 518.38>	velocity <0.2965 X and 0.5337 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <166.30, 401.38>	velocity <0.1744 X and 0.4068 Y> ft/sec
-Ball b3: position <225.07, 460.15>	velocity <0.2325 X and 0.4650 Y> ft/sec
-Ball b4: position <283.84, 518.91>	velocity <0.2906 X and 0.5231 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <166.48, 401.78>	velocity <0.1709 X and 0.3987 Y> ft/sec
-Ball b3: position <225.31, 460.61>	velocity <0.2279 X and 0.4557 Y> ft/sec
-Ball b4: position <284.13, 519.44>	velocity <0.2848 X and 0.5127 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <166.65, 402.18>	velocity <0.1675 X and 0.3908 Y> ft/sec
-Ball b3: position <225.53, 461.07>	velocity <0.2233 X and 0.4466 Y> ft/sec
-Ball b4: position <284.42, 519.95>	velocity <0.2791 X and 0.5025 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <166.82, 402.57>	velocity <0.1642 X and 0.3830 Y> ft/sec
-Ball b3: position <225.76, 461.51>	velocity <0.2189 X and 0.4377 Y> ft/sec
-Ball b4: position <284.70, 520.45>	velocity <0.2736 X and 0.4925 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <166.98, 402.96>	velocity <0.1609 X and 0.3754 Y> ft/sec
-Ball b3: position <225.98, 461.95>	velocity <0.2145 X and 0.4290 Y> ft/sec
-Ball b4: position <284.97, 520.94>	velocity <0.2681 X and 0.4827 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <167.14, 403.33>	velocity <0.1577 X and 0.3679 Y> ft/sec
-Ball b3: position <226.19, 462.38>	velocity <0.2102 X and 0.4205 Y> ft/sec
-Ball b4: position <285.24, 521.43>	velocity <0.2628 X and 0.4731 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <167.30, 403.70>	velocity <0.1545 X and 0.3606 Y> ft/sec
-Ball b3: position <226.40, 462.80>	velocity <0.2061 X and 0.4121 Y> ft/sec
-Ball b4: position <285.50, 521.90>	velocity <0.2576 X and 0.4636 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <167.45, 404.06>	velocity <0.1515 X and 0.3534 Y> ft/sec
-Ball b3: position <226.61, 463.21>	velocity <0.2020 X and 0.4039 Y> ft/sec
-Ball b4: position <285.76, 522.36>	velocity <0.2525 X and 0.4544 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <167.61, 404.41>	velocity <0.1485 X and 0.3464 Y> ft/sec
-Ball b3: position <226.81, 463.62>	velocity <0.1979 X and 0.3959 Y> ft/sec
-Ball b4: position <286.01, 522.82>	velocity <0.2474 X and 0.4454 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <167.75, 404.76>	velocity <0.1455 X and 0.3395 Y> ft/sec
-Ball b3: position <227.01, 464.01>	velocity <0.1940 X and 0.3880 Y> ft/sec
-Ball b4: position <286.26, 523.26>	velocity <0.2425 X and 0.4365 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <167.90, 405.10>	velocity <0.1426 X and 0.3328 Y> ft/sec
-Ball b3: position <227.20, 464.40>	velocity <0.1901 X and 0.3803 Y> ft/sec
-Ball b4: position <286.50, 523.70>	velocity <0.2377 X and 0.4278 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <168.04, 405.43>	velocity <0.1398 X and 0.3261 Y> ft/sec
-Ball b3: position <227.39, 464.78>	velocity <0.1864 X and 0.3727 Y> ft/sec
-Ball b4: position <286.74, 524.13>	velocity <0.2330 X and 0.4193 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <168.18, 405.76>	velocity <0.1370 X and 0.3196 Y> ft/sec
-Ball b3: position <227.58, 465.15>	velocity <0.1827 X and 0.3653 Y> ft/sec
-Ball b4: position <286.97, 524.55>	velocity <0.2283 X and 0.4110 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <168.32, 406.08>	velocity <0.1343 X and 0.3133 Y> ft/sec
-Ball b3: position <227.76, 465.52>	velocity <0.1790 X and 0.3580 Y> ft/sec
-Ball b4: position <287.20, 524.96>	velocity <0.2238 X and 0.4028 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <168.45, 406.39>	velocity <0.1316 X and 0.3070 Y> ft/sec
-Ball b3: position <227.94, 465.88>	velocity <0.1755 X and 0.3509 Y> ft/sec
-Ball b4: position <287.42, 525.36>	velocity <0.2193 X and 0.3948 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <168.59, 406.70>	velocity <0.1290 X and 0.3009 Y> ft/sec
-Ball b3: position <228.11, 466.23>	velocity <0.1720 X and 0.3439 Y> ft/sec
-Ball b4: position <287.64, 525.76>	velocity <0.2150 X and 0.3869 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <168.71, 407.00>	velocity <0.1264 X and 0.2949 Y> ft/sec
-Ball b3: position <228.29, 466.57>	velocity <0.1685 X and 0.3371 Y> ft/sec
-Ball b4: position <287.86, 526.14>	velocity <0.2107 X and 0.3792 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <168.84, 407.29>	velocity <0.1239 X and 0.2891 Y> ft/sec
-Ball b3: position <228.45, 466.91>	velocity <0.1652 X and 0.3304 Y> ft/sec
-Ball b4: position <288.07, 526.52>	velocity <0.2065 X and 0.3717 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <168.96, 407.58>	velocity <0.1214 X and 0.2833 Y> ft/sec
-Ball b3: position <228.62, 467.24>	velocity <0.1619 X and 0.3238 Y> ft/sec
-Ball b4: position <288.27, 526.89>	velocity <0.2024 X and 0.3643 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <169.09, 407.87>	velocity <0.1190 X and 0.2777 Y> ft/sec
-Ball b3: position <228.78, 467.56>	velocity <0.1587 X and 0.3174 Y> ft/sec
-Ball b4: position <288.48, 527.26>	velocity <0.1983 X and 0.3570 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <169.20, 408.14>	velocity <0.1166 X and 0.2722 Y> ft/sec
-Ball b3: position <228.94, 467.88>	velocity <0.1555 X and 0.3110 Y> ft/sec
-Ball b4: position <288.67, 527.61>	velocity <0.1944 X and 0.3499 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <169.32, 408.42>	velocity <0.1143 X and 0.2667 Y> ft/sec
-Ball b3: position <229.10, 468.19>	velocity <0.1524 X and 0.3049 Y> ft/sec
-Ball b4: position <288.87, 527.96>	velocity <0.1905 X and 0.3430 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <169.44, 408.68>	velocity <0.1120 X and 0.2614 Y> ft/sec
-Ball b3: position <229.25, 468.50>	velocity <0.1494 X and 0.2988 Y> ft/sec
-Ball b4: position <289.06, 528.31>	velocity <0.1867 X and 0.3361 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <169.55, 408.95>	velocity <0.1098 X and 0.2562 Y> ft/sec
-Ball b3: position <229.40, 468.79>	velocity <0.1464 X and 0.2928 Y> ft/sec
-Ball b4: position <289.25, 528.64>	velocity <0.1830 X and 0.3294 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <169.66, 409.20>	velocity <0.1076 X and 0.2511 Y> ft/sec
-Ball b3: position <229.54, 469.09>	velocity <0.1435 X and 0.2870 Y> ft/sec
-Ball b4: position <289.43, 528.97>	velocity <0.1794 X and 0.3229 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <169.77, 409.45>	velocity <0.1055 X and 0.2461 Y> ft/sec
-Ball b3: position <229.69, 469.37>	velocity <0.1407 X and 0.2813 Y> ft/sec
-Ball b4: position <289.61, 529.30>	velocity <0.1758 X and 0.3165 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <169.87, 409.70>	velocity <0.1034 X and 0.2412 Y> ft/sec
-Ball b3: position <229.83, 469.66>	velocity <0.1379 X and 0.2757 Y> ft/sec
-Ball b4: position <289.78, 529.61>	velocity <0.1723 X and 0.3102 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <169.97, 409.94>	velocity <0.1013 X and 0.2364 Y> ft/sec
-Ball b3: position <229.97, 469.93>	velocity <0.1351 X and 0.2702 Y> ft/sec
-Ball b4: position <289.96, 529.92>	velocity <0.1689 X and 0.3040 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.08, 410.18>	velocity <0.0993 X and 0.2317 Y> ft/sec
-Ball b3: position <230.10, 470.20>	velocity <0.1324 X and 0.2648 Y> ft/sec
-Ball b4: position <290.13, 530.23>	velocity <0.1655 X and 0.2979 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.17, 410.41>	velocity <0.0973 X and 0.2271 Y> ft/sec
-Ball b3: position <230.23, 470.47>	velocity <0.1298 X and 0.2596 Y> ft/sec
-Ball b4: position <290.29, 530.52>	velocity <0.1622 X and 0.2920 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.27, 410.64>	velocity <0.0954 X and 0.2226 Y> ft/sec
-Ball b3: position <230.36, 470.73>	velocity <0.1272 X and 0.2544 Y> ft/sec
-Ball b4: position <290.45, 530.82>	velocity <0.1590 X and 0.2862 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.37, 410.86>	velocity <0.0935 X and 0.2182 Y> ft/sec
-Ball b3: position <230.49, 470.98>	velocity <0.1247 X and 0.2493 Y> ft/sec
-Ball b4: position <290.61, 531.10>	velocity <0.1558 X and 0.2805 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.46, 411.08>	velocity <0.0916 X and 0.2138 Y> ft/sec
-Ball b3: position <230.61, 471.23>	velocity <0.1222 X and 0.2444 Y> ft/sec
-Ball b4: position <290.77, 531.38>	velocity <0.1527 X and 0.2749 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.55, 411.29>	velocity <0.0898 X and 0.2096 Y> ft/sec
-Ball b3: position <230.74, 471.47>	velocity <0.1198 X and 0.2395 Y> ft/sec
-Ball b4: position <290.92, 531.66>	velocity <0.1497 X and 0.2695 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.64, 411.50>	velocity <0.0880 X and 0.2054 Y> ft/sec
-Ball b3: position <230.86, 471.71>	velocity <0.1174 X and 0.2348 Y> ft/sec
-Ball b4: position <291.07, 531.93>	velocity <0.1467 X and 0.2641 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.73, 411.70>	velocity <0.0863 X and 0.2013 Y> ft/sec
-Ball b3: position <230.97, 471.95>	velocity <0.1150 X and 0.2301 Y> ft/sec
-Ball b4: position <291.22, 532.19>	velocity <0.1438 X and 0.2588 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.82, 411.91>	velocity <0.0846 X and 0.1973 Y> ft/sec
-Ball b3: position <231.09, 472.18>	velocity <0.1128 X and 0.2255 Y> ft/sec
-Ball b4: position <291.36, 532.45>	velocity <0.1409 X and 0.2537 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.90, 412.10>	<at rest>
-Ball b3: position <231.20, 472.40>	velocity <0.1105 X and 0.2210 Y> ft/sec
-Ball b4: position <291.50, 532.70>	velocity <0.1381 X and 0.2486 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <170.98, 412.30>	<at rest>
-Ball b3: position <231.31, 472.62>	velocity <0.1083 X and 0.2166 Y> ft/sec
-Ball b4: position <291.64, 532.95>	velocity <0.1354 X and 0.2437 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.07, 412.49>	<at rest>
-Ball b3: position <231.42, 472.84>	velocity <0.1062 X and 0.2123 Y> ft/sec
-Ball b4: position <291.78, 533.20>	velocity <0.1327 X and 0.2388 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.15, 412.67>	<at rest>
-Ball b3: position <231.53, 473.05>	velocity <0.1040 X and 0.2081 Y> ft/sec
-Ball b4: position <291.91, 533.44>	velocity <0.1300 X and 0.2341 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.22, 412.85>	<at rest>
-Ball b3: position <231.63, 473.26>	velocity <0.1020 X and 0.2039 Y> ft/sec
-Ball b4: position <292.04, 533.67>	velocity <0.1275 X and 0.2294 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.30, 413.03>	<at rest>
-Ball b3: position <231.73, 473.47>	velocity <0.0999 X and 0.1999 Y> ft/sec
-Ball b4: position <292.17, 533.90>	velocity <0.1249 X and 0.2249 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.37, 413.21>	<at rest>
-Ball b3: position <231.83, 473.67>	velocity <0.0980 X and 0.1959 Y> ft/sec
-Ball b4: position <292.29, 534.12>	velocity <0.1224 X and 0.2204 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.45, 413.38>	<at rest>
-Ball b3: position <231.93, 473.86>	velocity <0.0960 X and 0.1920 Y> ft/sec
-Ball b4: position <292.41, 534.34>	velocity <0.1200 X and 0.2160 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.52, 413.55>	<at rest>
-Ball b3: position <232.03, 474.05>	velocity <0.0941 X and 0.1882 Y> ft/sec
-Ball b4: position <292.53, 534.56>	velocity <0.1176 X and 0.2117 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.59, 413.71>	<at rest>
-Ball b3: position <232.12, 474.24>	velocity <0.0922 X and 0.1844 Y> ft/sec
-Ball b4: position <292.65, 534.77>	velocity <0.1153 X and 0.2075 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.66, 413.87>	<at rest>
-Ball b3: position <232.21, 474.43>	velocity <0.0904 X and 0.1808 Y> ft/sec
-Ball b4: position <292.77, 534.98>	velocity <0.1130 X and 0.2034 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.73, 414.03>	<at rest>
-Ball b3: position <232.30, 474.61>	velocity <0.0886 X and 0.1772 Y> ft/sec
-Ball b4: position <292.88, 535.18>	velocity <0.1107 X and 0.1993 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.79, 414.19>	<at rest>
-Ball b3: position <232.39, 474.78>	velocity <0.0868 X and 0.1736 Y> ft/sec
-Ball b4: position <292.99, 535.38>	velocity <0.1085 X and 0.1954 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.86, 414.34>	<at rest>
-Ball b3: position <232.48, 474.96>	velocity <0.0851 X and 0.1702 Y> ft/sec
-Ball b4: position <293.10, 535.58>	velocity <0.1064 X and 0.1915 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.92, 414.49>	<at rest>
-Ball b3: position <232.56, 475.13>	velocity <0.0834 X and 0.1668 Y> ft/sec
-Ball b4: position <293.21, 535.77>	velocity <0.1043 X and 0.1877 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <171.99, 414.63>	<at rest>
-Ball b3: position <232.65, 475.29>	<at rest>
-Ball b4: position <293.31, 535.96>	velocity <0.1022 X and 0.1839 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.05, 414.78>	<at rest>
-Ball b3: position <232.73, 475.46>	<at rest>
-Ball b4: position <293.41, 536.14>	velocity <0.1001 X and 0.1803 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.11, 414.92>	<at rest>
-Ball b3: position <232.81, 475.62>	<at rest>
-Ball b4: position <293.51, 536.32>	velocity <0.0982 X and 0.1767 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.17, 415.05>	<at rest>
-Ball b3: position <232.89, 475.78>	<at rest>
-Ball b4: position <293.61, 536.50>	velocity <0.0962 X and 0.1732 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.22, 415.19>	<at rest>
-Ball b3: position <232.96, 475.93>	<at rest>
-Ball b4: position <293.71, 536.67>	velocity <0.0943 X and 0.1697 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.28, 415.32>	<at rest>
-Ball b3: position <233.04, 476.08>	<at rest>
-Ball b4: position <293.80, 536.84>	velocity <0.0924 X and 0.1663 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.34, 415.45>	<at rest>
-Ball b3: position <233.11, 476.23>	<at rest>
-Ball b4: position <293.89, 537.01>	velocity <0.0906 X and 0.1630 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.39, 415.58>	<at rest>
-Ball b3: position <233.19, 476.37>	<at rest>
-Ball b4: position <293.98, 537.17>	velocity <0.0888 X and 0.1598 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.44, 415.70>	<at rest>
-Ball b3: position <233.26, 476.52>	<at rest>
-Ball b4: position <294.07, 537.33>	velocity <0.0870 X and 0.1566 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.50, 415.82>	<at rest>
-Ball b3: position <233.33, 476.65>	<at rest>
-Ball b4: position <294.16, 537.49>	velocity <0.0853 X and 0.1535 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.55, 415.94>	<at rest>
-Ball b3: position <233.40, 476.79>	<at rest>
-Ball b4: position <294.24, 537.64>	velocity <0.0836 X and 0.1504 Y> ft/sec
-
-Ball b1: position <15.96, 67.87>		<at rest>
-Ball b2: position <172.60, 416.06>	<at rest>
-Ball b3: position <233.46, 476.92>	<at rest>
-Ball b4: position <294.33, 537.79>	<at rest>
+Creating new ball: Ball 1
+Position: [0.0, 0.0]
+Speed: [250.0, -100.0]
+At Rest? false
+In Bounds? true
+
+Testing move() on Ball 1
+Position: [247.5, -99.0]
+Speed: [247.5, -99.0]
+At Rest? false
+In Bounds? true
+
+Testing move() on Ball 1
+Position: [492.525, -197.01]
+Speed: [245.025, -98.01]
+At Rest? false
+In Bounds? true
+
+Testing move() on Ball 1
+Position: [735.09975, -294.0399]
+Speed: [242.57475, -97.0299]
+At Rest? false
+In Bounds? false
 .                                       
 .                                       
 .                                       
@@ -1051,106 +39,3786 @@ Ball b4: position <294.33, 537.79>	<at rest>
 ======================================  
 ... Testing SoccerSim no args...        
 ======================================  
+Not Enough Arguments
 
-  Hello, world, from the SoccerSim program!
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim one arg...        
 ======================================  
+Not Enough Arguments
 
-  Hello, world, from the SoccerSim program!
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim two args...       
 ======================================  
+Not Enough Arguments
 
-  Hello, world, from the SoccerSim program!
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim three args...     
 ======================================  
+Not Enough Arguments
 
-  Hello, world, from the SoccerSim program!
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim six args...       
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 1 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [10.0, 20.0]
+Speed: [30.0, 40.0]
+At Rest? false
+In Bounds? true
+
+Ignoring argument at SoccerSim 6: 60
+
+Using Timeslice value at SoccerSim 5: 50
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice 50.0 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: 50.0
+
+Position: [28.15018201412609, 44.20024268550145]
+Speed: [18.15018201412609, 24.200242685501454]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 100.0
+
+Position: [39.13115225232296, 58.841536336430615]
+Speed: [10.980970238196875, 14.641293650929166]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 150.0
+
+Position: [45.77470586948879, 67.69960782598505]
+Speed: [6.643553617165827, 8.858071489554435]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 200.0
+
+Position: [49.794096115227646, 73.05879482030352]
+Speed: [4.019390245738851, 5.359186994318467]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 250.0
+
+Position: [52.22585160009309, 76.30113546679077]
+Speed: [2.431755484865438, 3.24234064648725]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 300.0
+
+Position: [53.697078422231655, 78.2627712296422]
+Speed: [1.4712268221385714, 1.9616357628514283]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 350.0
+
+Position: [54.58717957576097, 79.44957276768127]
+Speed: [0.8901011535293127, 1.1868015380390835]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 400.0
+
+Position: [55.125696174012326, 80.16759489868308]
+Speed: [0.5385165982513539, 0.7180221310018051]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 450.0
+
+Position: [55.451501983208665, 80.60200264427819]
+Speed: [0.3258058091963363, 0.434407745595115]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 500.0
+
+Position: [55.6486164744811, 80.86482196597477]
+Speed: [0.197114491272438, 0.26281932169658395]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 550.0
+
+Position: [55.767871937621656, 81.02382925016218]
+Speed: [0.11925546314055395, 0.15900728418740523]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 600.0
+
+Position: [55.840022216360985, 81.12002962181462]
+Speed: [0.07215027873933197, 0.0962003716524426]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 650.0
+
+Position: [55.883673572743945, 81.17823143032524]
+Speed: [0.04365135638296024, 0.05820180851061364]
+At Rest? true
+In Bounds? true
+
+
+
+Ball 1 went out of bounds!
+
+
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim out of bounds...  
 ======================================  
+Not Enough Arguments
 
-  Hello, world, from the SoccerSim program!
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim negativve time slice...
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 1 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [10.0, 10.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+
+Using Timeslice value at SoccerSim 5: -1
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice -1.0 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: -1.0
+
+Position: [15.050505050505052, 15.050505050505052]
+Speed: [5.050505050505051, 5.050505050505051]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -2.0
+
+Position: [20.15202530354046, 20.15202530354046]
+Speed: [5.101520253035406, 5.101520253035406]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -3.0
+
+Position: [25.305076064182284, 25.305076064182284]
+Speed: [5.1530507606418245, 5.1530507606418245]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -4.0
+
+Position: [30.51017784260837, 30.51017784260837]
+Speed: [5.205101778426085, 5.205101778426085]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -5.0
+
+Position: [35.76785640667512, 35.76785640667512]
+Speed: [5.257678564066754, 5.257678564066754]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -6.0
+
+Position: [41.07864283502538, 41.07864283502538]
+Speed: [5.310786428350257, 5.310786428350257]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -7.0
+
+Position: [46.44307357073271, 46.44307357073271]
+Speed: [5.36443073570733, 5.36443073570733]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -8.0
+
+Position: [51.861690475487585, 51.861690475487585]
+Speed: [5.418616904754879, 5.418616904754879]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -9.0
+
+Position: [57.335040884330894, 57.335040884330894]
+Speed: [5.473350408843313, 5.473350408843313]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -10.0
+
+Position: [62.863677660940304, 62.863677660940304]
+Speed: [5.5286367766094076, 5.5286367766094076]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -11.0
+
+Position: [68.44815925347505, 68.44815925347505]
+Speed: [5.584481592534756, 5.584481592534756]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -12.0
+
+Position: [74.08904975098491, 74.08904975098491]
+Speed: [5.640890497509854, 5.640890497509854]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -13.0
+
+Position: [79.7869189403888, 79.7869189403888]
+Speed: [5.697869189403893, 5.697869189403893]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -14.0
+
+Position: [85.5423423640291, 85.5423423640291]
+Speed: [5.755423423640297, 5.755423423640297]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -15.0
+
+Position: [91.35590137780717, 91.35590137780717]
+Speed: [5.813559013778078, 5.813559013778078]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -16.0
+
+Position: [97.22818320990623, 97.22818320990623]
+Speed: [5.872281832099069, 5.872281832099069]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -17.0
+
+Position: [103.15978102010732, 103.15978102010732]
+Speed: [5.9315978102010805, 5.9315978102010805]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -18.0
+
+Position: [109.15129395970436, 109.15129395970436]
+Speed: [5.991512939597051, 5.991512939597051]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -19.0
+
+Position: [115.20332723202462, 115.20332723202462]
+Speed: [6.052033272320254, 6.052033272320254]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -20.0
+
+Position: [121.31649215356023, 121.31649215356023]
+Speed: [6.113164921535611, 6.113164921535611]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -21.0
+
+Position: [127.49140621571742, 127.49140621571742]
+Speed: [6.174914062157183, 6.174914062157183]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -22.0
+
+Position: [133.72869314718932, 133.72869314718932]
+Speed: [6.237286931471902, 6.237286931471902]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -23.0
+
+Position: [140.02898297695893, 140.02898297695893]
+Speed: [6.300289829769599, 6.300289829769599]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -24.0
+
+Position: [146.39291209793834, 146.39291209793834]
+Speed: [6.363929120979393, 6.363929120979393]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -25.0
+
+Position: [152.82112333125085, 152.82112333125085]
+Speed: [6.428211233312519, 6.428211233312519]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -26.0
+
+Position: [159.31426599116247, 159.31426599116247]
+Speed: [6.493142659911635, 6.493142659911635]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -27.0
+
+Position: [165.87299595066918, 165.87299595066918]
+Speed: [6.558729959506703, 6.558729959506703]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -28.0
+
+Position: [172.49797570774666, 172.49797570774666]
+Speed: [6.624979757077479, 6.624979757077479]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -29.0
+
+Position: [179.18987445226938, 179.18987445226938]
+Speed: [6.691898744522706, 6.691898744522706]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -30.0
+
+Position: [185.94936813360545, 185.94936813360545]
+Speed: [6.759493681336067, 6.759493681336067]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -31.0
+
+Position: [192.7771395288944, 192.7771395288944]
+Speed: [6.8277713952889565, 6.8277713952889565]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -32.0
+
+Position: [199.67387831201455, 199.67387831201455]
+Speed: [6.896738783120158, 6.896738783120158]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -33.0
+
+Position: [206.64028112324704, 206.64028112324704]
+Speed: [6.966402811232483, 6.966402811232483]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -34.0
+
+Position: [213.67705163964348, 213.67705163964348]
+Speed: [7.036770516396448, 7.036770516396448]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -35.0
+
+Position: [220.78490064610455, 220.78490064610455]
+Speed: [7.107849006461059, 7.107849006461059]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -36.0
+
+Position: [227.96454610717632, 227.96454610717632]
+Speed: [7.179645461071777, 7.179645461071777]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -37.0
+
+Position: [235.21671323957204, 235.21671323957204]
+Speed: [7.252167132395734, 7.252167132395734]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -38.0
+
+Position: [242.5421345854263, 242.5421345854263]
+Speed: [7.325421345854278, 7.325421345854278]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -39.0
+
+Position: [249.94155008628923, 249.94155008628923]
+Speed: [7.399415500862908, 7.399415500862908]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -40.0
+
+Position: [257.4157071578679, 257.4157071578679]
+Speed: [7.474157071578695, 7.474157071578695]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -41.0
+
+Position: [264.9653607655232, 264.9653607655232]
+Speed: [7.549653607655248, 7.549653607655248]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -42.0
+
+Position: [272.59127350052853, 272.59127350052853]
+Speed: [7.6259127350053015, 7.6259127350053015]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -43.0
+
+Position: [280.2942156570995, 280.2942156570995]
+Speed: [7.702942156571012, 7.702942156571012]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -44.0
+
+Position: [288.07496531020155, 288.07496531020155]
+Speed: [7.780749653102033, 7.780749653102033]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -45.0
+
+Position: [295.934308394143, 295.934308394143]
+Speed: [7.859343083941448, 7.859343083941448]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -46.0
+
+Position: [303.87303878196263, 303.87303878196263]
+Speed: [7.938730387819645, 7.938730387819645]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -47.0
+
+Position: [311.89195836561885, 311.89195836561885]
+Speed: [8.018919583656208, 8.018919583656208]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -48.0
+
+Position: [319.99187713698876, 319.99187713698876]
+Speed: [8.099918771369907, 8.099918771369907]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -49.0
+
+Position: [328.17361326968563, 328.17361326968563]
+Speed: [8.181736132696876, 8.181736132696876]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -50.0
+
+Position: [336.4379932017027, 336.4379932017027]
+Speed: [8.264379932017048, 8.264379932017048]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -51.0
+
+Position: [344.7858517188916, 344.7858517188916]
+Speed: [8.347858517188937, 8.347858517188937]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -52.0
+
+Position: [353.2180320392845, 353.2180320392845]
+Speed: [8.432180320392867, 8.432180320392867]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -53.0
+
+Position: [361.73538589826717, 361.73538589826717]
+Speed: [8.517353858982695, 8.517353858982695]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -54.0
+
+Position: [370.33877363461335, 370.33877363461335]
+Speed: [8.603387736346157, 8.603387736346157]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -55.0
+
+Position: [379.02906427738725, 379.02906427738725]
+Speed: [8.690290642773897, 8.690290642773897]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -56.0
+
+Position: [387.8071356337245, 387.8071356337245]
+Speed: [8.778071356337271, 8.778071356337271]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -57.0
+
+Position: [396.67387437749954, 396.67387437749954]
+Speed: [8.866738743775022, 8.866738743775022]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -58.0
+
+Position: [405.63017613888843, 405.63017613888843]
+Speed: [8.95630176138891, 8.95630176138891]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -59.0
+
+Position: [414.6769455948368, 414.6769455948368]
+Speed: [9.046769455948395, 9.046769455948395]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -60.0
+
+Position: [423.81509656044125, 423.81509656044125]
+Speed: [9.13815096560444, 9.13815096560444]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -61.0
+
+Position: [433.0455520812538, 433.0455520812538]
+Speed: [9.230455520812567, 9.230455520812567]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -62.0
+
+Position: [442.369244526519, 442.369244526519]
+Speed: [9.32369244526522, 9.32369244526522]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -63.0
+
+Position: [451.78711568335257, 451.78711568335257]
+Speed: [9.417871156833556, 9.417871156833556]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -64.0
+
+Position: [461.30011685187134, 461.30011685187134]
+Speed: [9.513001168518743, 9.513001168518743]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -65.0
+
+Position: [470.9092089412842, 470.9092089412842]
+Speed: [9.609092089412872, 9.609092089412872]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -66.0
+
+Position: [480.61536256695376, 480.61536256695376]
+Speed: [9.706153625669568, 9.706153625669568]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -67.0
+
+Position: [490.41955814843817, 490.41955814843817]
+Speed: [9.804195581484413, 9.804195581484413]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: -68.0
+
+Position: [500.32278600852345, 500.32278600852345]
+Speed: [9.903227860085266, 9.903227860085266]
+At Rest? false
+In Bounds? false
+
+
+
+Ball 1 went out of bounds!
+
+
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim time slice too large...
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 1 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [10.0, 10.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+
+Using Timeslice value at SoccerSim 5: 1800.1
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice 1800.1 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: 1800.0
+
+Position: [10.000000069483837, 10.000000069483837]
+Speed: [6.94838380505555E-8, 6.94838380505555E-8]
+At Rest? true
+In Bounds? true
+
+
+
+Ball 1 went out of bounds!
+
+
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim time slice value of zero...
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 1 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [10.0, 10.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+
+Using Timeslice value at SoccerSim 5: 0.0
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice 0.0 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: 0.0
+
+Position: [15.0, 15.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [20.0, 20.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [25.0, 25.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [30.0, 30.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [35.0, 35.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [40.0, 40.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [45.0, 45.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [50.0, 50.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [55.0, 55.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [60.0, 60.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [65.0, 65.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [70.0, 70.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [75.0, 75.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [80.0, 80.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [85.0, 85.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [90.0, 90.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [95.0, 95.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [100.0, 100.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [105.0, 105.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [110.0, 110.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [115.0, 115.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [120.0, 120.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [125.0, 125.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [130.0, 130.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [135.0, 135.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [140.0, 140.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [145.0, 145.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [150.0, 150.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [155.0, 155.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [160.0, 160.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [165.0, 165.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [170.0, 170.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [175.0, 175.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [180.0, 180.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [185.0, 185.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [190.0, 190.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [195.0, 195.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [200.0, 200.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [205.0, 205.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [210.0, 210.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [215.0, 215.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [220.0, 220.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [225.0, 225.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [230.0, 230.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [235.0, 235.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [240.0, 240.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [245.0, 245.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [250.0, 250.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [255.0, 255.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [260.0, 260.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [265.0, 265.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [270.0, 270.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [275.0, 275.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [280.0, 280.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [285.0, 285.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [290.0, 290.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [295.0, 295.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [300.0, 300.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [305.0, 305.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [310.0, 310.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [315.0, 315.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [320.0, 320.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [325.0, 325.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [330.0, 330.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [335.0, 335.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [340.0, 340.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [345.0, 345.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [350.0, 350.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [355.0, 355.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [360.0, 360.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [365.0, 365.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [370.0, 370.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [375.0, 375.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [380.0, 380.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [385.0, 385.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [390.0, 390.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [395.0, 395.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [400.0, 400.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [405.0, 405.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [410.0, 410.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [415.0, 415.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [420.0, 420.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [425.0, 425.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [430.0, 430.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [435.0, 435.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [440.0, 440.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [445.0, 445.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [450.0, 450.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [455.0, 455.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [460.0, 460.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [465.0, 465.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [470.0, 470.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [475.0, 475.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [480.0, 480.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [485.0, 485.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [490.0, 490.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [495.0, 495.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [500.0, 500.0]
+Speed: [5.0, 5.0]
+At Rest? false
+In Bounds? false
+
+
+
+Ball 1 went out of bounds!
+
+
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim valid ball should come to rest...
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 1 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [10.0, 10.0]
+Speed: [1.0, 1.0]
+At Rest? false
+In Bounds? true
+
+
+ Using default timeslice value of 1.0 second(s)
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice 1.0 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: 1.0
+
+Position: [10.99, 10.99]
+Speed: [0.99, 0.99]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 2.0
+
+Position: [11.9701, 11.9701]
+Speed: [0.9801, 0.9801]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 3.0
+
+Position: [12.940399000000001, 12.940399000000001]
+Speed: [0.9702989999999999, 0.9702989999999999]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 4.0
+
+Position: [13.90099501, 13.90099501]
+Speed: [0.96059601, 0.96059601]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 5.0
+
+Position: [14.8519850599, 14.8519850599]
+Speed: [0.9509900498999999, 0.9509900498999999]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 6.0
+
+Position: [15.793465209301, 15.793465209301]
+Speed: [0.9414801494009999, 0.9414801494009999]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 7.0
+
+Position: [16.72553055720799, 16.72553055720799]
+Speed: [0.9320653479069899, 0.9320653479069899]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 8.0
+
+Position: [17.64827525163591, 17.64827525163591]
+Speed: [0.92274469442792, 0.92274469442792]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 9.0
+
+Position: [18.561792499119548, 18.561792499119548]
+Speed: [0.9135172474836407, 0.9135172474836407]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 10.0
+
+Position: [19.466174574128353, 19.466174574128353]
+Speed: [0.9043820750088043, 0.9043820750088043]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 11.0
+
+Position: [20.36151282838707, 20.36151282838707]
+Speed: [0.8953382542587163, 0.8953382542587163]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 12.0
+
+Position: [21.2478977001032, 21.2478977001032]
+Speed: [0.8863848717161291, 0.8863848717161291]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 13.0
+
+Position: [22.125418723102165, 22.125418723102165]
+Speed: [0.8775210229989678, 0.8775210229989678]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 14.0
+
+Position: [22.994164535871143, 22.994164535871143]
+Speed: [0.8687458127689781, 0.8687458127689781]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 15.0
+
+Position: [23.854222890512432, 23.854222890512432]
+Speed: [0.8600583546412883, 0.8600583546412883]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 16.0
+
+Position: [24.705680661607307, 24.705680661607307]
+Speed: [0.8514577710948754, 0.8514577710948754]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 17.0
+
+Position: [25.548623854991234, 25.548623854991234]
+Speed: [0.8429431933839266, 0.8429431933839266]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 18.0
+
+Position: [26.38313761644132, 26.38313761644132]
+Speed: [0.8345137614500874, 0.8345137614500874]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 19.0
+
+Position: [27.209306240276906, 27.209306240276906]
+Speed: [0.8261686238355865, 0.8261686238355865]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 20.0
+
+Position: [28.027213177874135, 28.027213177874135]
+Speed: [0.8179069375972307, 0.8179069375972307]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 21.0
+
+Position: [28.836941046095394, 28.836941046095394]
+Speed: [0.8097278682212583, 0.8097278682212583]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 22.0
+
+Position: [29.638571635634438, 29.638571635634438]
+Speed: [0.8016305895390458, 0.8016305895390458]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 23.0
+
+Position: [30.432185919278094, 30.432185919278094]
+Speed: [0.7936142836436553, 0.7936142836436553]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 24.0
+
+Position: [31.21786406008531, 31.21786406008531]
+Speed: [0.7856781408072188, 0.7856781408072188]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 25.0
+
+Position: [31.99568541948446, 31.99568541948446]
+Speed: [0.7778213593991465, 0.7778213593991465]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 26.0
+
+Position: [32.76572856528961, 32.76572856528961]
+Speed: [0.7700431458051551, 0.7700431458051551]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 27.0
+
+Position: [33.52807127963672, 33.52807127963672]
+Speed: [0.7623427143471035, 0.7623427143471035]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 28.0
+
+Position: [34.282790566840355, 34.282790566840355]
+Speed: [0.7547192872036325, 0.7547192872036325]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 29.0
+
+Position: [35.02996266117195, 35.02996266117195]
+Speed: [0.7471720943315961, 0.7471720943315961]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 30.0
+
+Position: [35.76966303456023, 35.76966303456023]
+Speed: [0.7397003733882802, 0.7397003733882802]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 31.0
+
+Position: [36.50196640421463, 36.50196640421463]
+Speed: [0.7323033696543974, 0.7323033696543974]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 32.0
+
+Position: [37.22694674017248, 37.22694674017248]
+Speed: [0.7249803359578534, 0.7249803359578534]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 33.0
+
+Position: [37.944677272770754, 37.944677272770754]
+Speed: [0.7177305325982748, 0.7177305325982748]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 34.0
+
+Position: [38.65523050004305, 38.65523050004305]
+Speed: [0.7105532272722921, 0.7105532272722921]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 35.0
+
+Position: [39.358678195042614, 39.358678195042614]
+Speed: [0.7034476949995692, 0.7034476949995692]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 36.0
+
+Position: [40.055091413092185, 40.055091413092185]
+Speed: [0.6964132180495735, 0.6964132180495735]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 37.0
+
+Position: [40.744540498961264, 40.744540498961264]
+Speed: [0.6894490858690777, 0.6894490858690777]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 38.0
+
+Position: [41.42709509397165, 41.42709509397165]
+Speed: [0.682554595010387, 0.682554595010387]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 39.0
+
+Position: [42.10282414303193, 42.10282414303193]
+Speed: [0.6757290490602831, 0.6757290490602831]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 40.0
+
+Position: [42.771795901601614, 42.771795901601614]
+Speed: [0.6689717585696803, 0.6689717585696803]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 41.0
+
+Position: [43.434077942585596, 43.434077942585596]
+Speed: [0.6622820409839835, 0.6622820409839835]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 42.0
+
+Position: [44.08973716315974, 44.08973716315974]
+Speed: [0.6556592205741436, 0.6556592205741436]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 43.0
+
+Position: [44.73883979152814, 44.73883979152814]
+Speed: [0.6491026283684022, 0.6491026283684022]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 44.0
+
+Position: [45.38145139361286, 45.38145139361286]
+Speed: [0.6426116020847181, 0.6426116020847181]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 45.0
+
+Position: [46.017636879676736, 46.017636879676736]
+Speed: [0.6361854860638709, 0.6361854860638709]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 46.0
+
+Position: [46.64746051087997, 46.64746051087997]
+Speed: [0.6298236312032323, 0.6298236312032323]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 47.0
+
+Position: [47.27098590577117, 47.27098590577117]
+Speed: [0.6235253948912, 0.6235253948912]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 48.0
+
+Position: [47.88827604671346, 47.88827604671346]
+Speed: [0.617290140942288, 0.617290140942288]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 49.0
+
+Position: [48.499393286246324, 48.499393286246324]
+Speed: [0.6111172395328651, 0.6111172395328651]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 50.0
+
+Position: [49.10439935338386, 49.10439935338386]
+Speed: [0.6050060671375365, 0.6050060671375365]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 51.0
+
+Position: [49.70335535985002, 49.70335535985002]
+Speed: [0.5989560064661611, 0.5989560064661611]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 52.0
+
+Position: [50.29632180625152, 50.29632180625152]
+Speed: [0.5929664464014994, 0.5929664464014994]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 53.0
+
+Position: [50.883358588189004, 50.883358588189004]
+Speed: [0.5870367819374844, 0.5870367819374844]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 54.0
+
+Position: [51.46452500230711, 51.46452500230711]
+Speed: [0.5811664141181095, 0.5811664141181095]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 55.0
+
+Position: [52.039879752284044, 52.039879752284044]
+Speed: [0.5753547499769285, 0.5753547499769285]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 56.0
+
+Position: [52.6094809547612, 52.6094809547612]
+Speed: [0.5696012024771592, 0.5696012024771592]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 57.0
+
+Position: [53.17338614521359, 53.17338614521359]
+Speed: [0.5639051904523876, 0.5639051904523876]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 58.0
+
+Position: [53.731652283761456, 53.731652283761456]
+Speed: [0.5582661385478638, 0.5582661385478638]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 59.0
+
+Position: [54.28433576092384, 54.28433576092384]
+Speed: [0.5526834771623851, 0.5526834771623851]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 60.0
+
+Position: [54.8314924033146, 54.8314924033146]
+Speed: [0.5471566423907612, 0.5471566423907612]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 61.0
+
+Position: [55.37317747928145, 55.37317747928145]
+Speed: [0.5416850759668536, 0.5416850759668536]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 62.0
+
+Position: [55.90944570448864, 55.90944570448864]
+Speed: [0.536268225207185, 0.536268225207185]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 63.0
+
+Position: [56.44035124744375, 56.44035124744375]
+Speed: [0.5309055429551132, 0.5309055429551132]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 64.0
+
+Position: [56.96594773496931, 56.96594773496931]
+Speed: [0.525596487525562, 0.525596487525562]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 65.0
+
+Position: [57.48628825761962, 57.48628825761962]
+Speed: [0.5203405226503064, 0.5203405226503064]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 66.0
+
+Position: [58.001425375043425, 58.001425375043425]
+Speed: [0.5151371174238033, 0.5151371174238033]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 67.0
+
+Position: [58.51141112129299, 58.51141112129299]
+Speed: [0.5099857462495653, 0.5099857462495653]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 68.0
+
+Position: [59.01629701008006, 59.01629701008006]
+Speed: [0.5048858887870696, 0.5048858887870696]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 69.0
+
+Position: [59.516134039979256, 59.516134039979256]
+Speed: [0.4998370298991989, 0.4998370298991989]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 70.0
+
+Position: [60.01097269957946, 60.01097269957946]
+Speed: [0.49483865960020695, 0.49483865960020695]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 71.0
+
+Position: [60.50086297258367, 60.50086297258367]
+Speed: [0.4898902730042049, 0.4898902730042049]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 72.0
+
+Position: [60.985854342857834, 60.985854342857834]
+Speed: [0.48499137027416284, 0.48499137027416284]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 73.0
+
+Position: [61.46599579942926, 61.46599579942926]
+Speed: [0.4801414565714212, 0.4801414565714212]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 74.0
+
+Position: [61.94133584143496, 61.94133584143496]
+Speed: [0.475340042005707, 0.475340042005707]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 75.0
+
+Position: [62.41192248302061, 62.41192248302061]
+Speed: [0.47058664158564995, 0.47058664158564995]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 76.0
+
+Position: [62.877803258190404, 62.877803258190404]
+Speed: [0.4658807751697934, 0.4658807751697934]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 77.0
+
+Position: [63.3390252256085, 63.3390252256085]
+Speed: [0.4612219674180955, 0.4612219674180955]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 78.0
+
+Position: [63.79563497335241, 63.79563497335241]
+Speed: [0.45660974774391455, 0.45660974774391455]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 79.0
+
+Position: [64.2476786236189, 64.2476786236189]
+Speed: [0.4520436502664754, 0.4520436502664754]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 80.0
+
+Position: [64.69520183738271, 64.69520183738271]
+Speed: [0.44752321376381066, 0.44752321376381066]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 81.0
+
+Position: [65.13824981900889, 65.13824981900889]
+Speed: [0.44304798162617254, 0.44304798162617254]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 82.0
+
+Position: [65.5768673208188, 65.5768673208188]
+Speed: [0.4386175018099108, 0.4386175018099108]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 83.0
+
+Position: [66.01109864761062, 66.01109864761062]
+Speed: [0.4342313267918117, 0.4342313267918117]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 84.0
+
+Position: [66.44098766113451, 66.44098766113451]
+Speed: [0.4298890135238936, 0.4298890135238936]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 85.0
+
+Position: [66.86657778452317, 66.86657778452317]
+Speed: [0.42559012338865465, 0.42559012338865465]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 86.0
+
+Position: [67.28791200667794, 67.28791200667794]
+Speed: [0.4213342221547681, 0.4213342221547681]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 87.0
+
+Position: [67.70503288661116, 67.70503288661116]
+Speed: [0.41712087993322045, 0.41712087993322045]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 88.0
+
+Position: [68.11798255774505, 68.11798255774505]
+Speed: [0.41294967113388825, 0.41294967113388825]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 89.0
+
+Position: [68.5268027321676, 68.5268027321676]
+Speed: [0.40882017442254937, 0.40882017442254937]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 90.0
+
+Position: [68.93153470484592, 68.93153470484592]
+Speed: [0.4047319726783239, 0.4047319726783239]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 91.0
+
+Position: [69.33221935779746, 69.33221935779746]
+Speed: [0.40068465295154065, 0.40068465295154065]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 92.0
+
+Position: [69.72889716421948, 69.72889716421948]
+Speed: [0.39667780642202527, 0.39667780642202527]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 93.0
+
+Position: [70.12160819257728, 70.12160819257728]
+Speed: [0.392711028357805, 0.392711028357805]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 94.0
+
+Position: [70.51039211065151, 70.51039211065151]
+Speed: [0.38878391807422696, 0.38878391807422696]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 95.0
+
+Position: [70.895288189545, 70.895288189545]
+Speed: [0.3848960788934847, 0.3848960788934847]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 96.0
+
+Position: [71.27633530764955, 71.27633530764955]
+Speed: [0.38104711810454983, 0.38104711810454983]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 97.0
+
+Position: [71.65357195457305, 71.65357195457305]
+Speed: [0.37723664692350434, 0.37723664692350434]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 98.0
+
+Position: [72.02703623502732, 72.02703623502732]
+Speed: [0.37346428045426927, 0.37346428045426927]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 99.0
+
+Position: [72.39676587267705, 72.39676587267705]
+Speed: [0.36972963764972655, 0.36972963764972655]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 100.0
+
+Position: [72.76279821395028, 72.76279821395028]
+Speed: [0.36603234127322926, 0.36603234127322926]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 101.0
+
+Position: [73.12517023181077, 73.12517023181077]
+Speed: [0.36237201786049694, 0.36237201786049694]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 102.0
+
+Position: [73.48391852949267, 73.48391852949267]
+Speed: [0.358748297681892, 0.358748297681892]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 103.0
+
+Position: [73.83907934419774, 73.83907934419774]
+Speed: [0.35516081470507305, 0.35516081470507305]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 104.0
+
+Position: [74.19068855075577, 74.19068855075577]
+Speed: [0.3516092065580223, 0.3516092065580223]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 105.0
+
+Position: [74.53878166524821, 74.53878166524821]
+Speed: [0.34809311449244207, 0.34809311449244207]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 106.0
+
+Position: [74.88339384859573, 74.88339384859573]
+Speed: [0.34461218334751764, 0.34461218334751764]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 107.0
+
+Position: [75.22455991010978, 75.22455991010978]
+Speed: [0.34116606151404244, 0.34116606151404244]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 108.0
+
+Position: [75.56231431100868, 75.56231431100868]
+Speed: [0.337754400898902, 0.337754400898902]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 109.0
+
+Position: [75.8966911678986, 75.8966911678986]
+Speed: [0.334376856889913, 0.334376856889913]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 110.0
+
+Position: [76.2277242562196, 76.2277242562196]
+Speed: [0.33103308832101386, 0.33103308832101386]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 111.0
+
+Position: [76.5554470136574, 76.5554470136574]
+Speed: [0.3277227574378037, 0.3277227574378037]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 112.0
+
+Position: [76.87989254352082, 76.87989254352082]
+Speed: [0.3244455298634257, 0.3244455298634257]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 113.0
+
+Position: [77.20109361808562, 77.20109361808562]
+Speed: [0.3212010745647914, 0.3212010745647914]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 114.0
+
+Position: [77.51908268190476, 77.51908268190476]
+Speed: [0.3179890638191435, 0.3179890638191435]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 115.0
+
+Position: [77.83389185508571, 77.83389185508571]
+Speed: [0.31480917318095203, 0.31480917318095203]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 116.0
+
+Position: [78.14555293653486, 78.14555293653486]
+Speed: [0.3116610814491425, 0.3116610814491425]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 117.0
+
+Position: [78.45409740716951, 78.45409740716951]
+Speed: [0.30854447063465107, 0.30854447063465107]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 118.0
+
+Position: [78.75955643309781, 78.75955643309781]
+Speed: [0.30545902592830454, 0.30545902592830454]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 119.0
+
+Position: [79.06196086876683, 79.06196086876683]
+Speed: [0.3024044356690215, 0.3024044356690215]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 120.0
+
+Position: [79.36134126007916, 79.36134126007916]
+Speed: [0.29938039131233124, 0.29938039131233124]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 121.0
+
+Position: [79.65772784747837, 79.65772784747837]
+Speed: [0.2963865873992079, 0.2963865873992079]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 122.0
+
+Position: [79.95115056900359, 79.95115056900359]
+Speed: [0.29342272152521587, 0.29342272152521587]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 123.0
+
+Position: [80.24163906331356, 80.24163906331356]
+Speed: [0.2904884943099637, 0.2904884943099637]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 124.0
+
+Position: [80.52922267268042, 80.52922267268042]
+Speed: [0.28758360936686406, 0.28758360936686406]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 125.0
+
+Position: [80.81393044595362, 80.81393044595362]
+Speed: [0.2847077732731954, 0.2847077732731954]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 126.0
+
+Position: [81.09579114149408, 81.09579114149408]
+Speed: [0.28186069554046345, 0.28186069554046345]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 127.0
+
+Position: [81.37483323007913, 81.37483323007913]
+Speed: [0.2790420885850588, 0.2790420885850588]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 128.0
+
+Position: [81.65108489777835, 81.65108489777835]
+Speed: [0.2762516676992082, 0.2762516676992082]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 129.0
+
+Position: [81.92457404880057, 81.92457404880057]
+Speed: [0.27348915102221616, 0.27348915102221616]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 130.0
+
+Position: [82.19532830831255, 82.19532830831255]
+Speed: [0.270754259511994, 0.270754259511994]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 131.0
+
+Position: [82.46337502522942, 82.46337502522942]
+Speed: [0.26804671691687404, 0.26804671691687404]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 132.0
+
+Position: [82.72874127497712, 82.72874127497712]
+Speed: [0.2653662497477053, 0.2653662497477053]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 133.0
+
+Position: [82.99145386222736, 82.99145386222736]
+Speed: [0.2627125872502282, 0.2627125872502282]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 134.0
+
+Position: [83.25153932360509, 83.25153932360509]
+Speed: [0.2600854613777259, 0.2600854613777259]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 135.0
+
+Position: [83.50902393036904, 83.50902393036904]
+Speed: [0.2574846067639487, 0.2574846067639487]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 136.0
+
+Position: [83.76393369106535, 83.76393369106535]
+Speed: [0.2549097606963092, 0.2549097606963092]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 137.0
+
+Position: [84.0162943541547, 84.0162943541547]
+Speed: [0.2523606630893461, 0.2523606630893461]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 138.0
+
+Position: [84.26613141061314, 84.26613141061314]
+Speed: [0.24983705645845267, 0.24983705645845267]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 139.0
+
+Position: [84.513470096507, 84.513470096507]
+Speed: [0.24733868589386815, 0.24733868589386815]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 140.0
+
+Position: [84.75833539554193, 84.75833539554193]
+Speed: [0.24486529903492946, 0.24486529903492946]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 141.0
+
+Position: [85.00075204158651, 85.00075204158651]
+Speed: [0.24241664604458016, 0.24241664604458016]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 142.0
+
+Position: [85.24074452117064, 85.24074452117064]
+Speed: [0.23999247958413436, 0.23999247958413436]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 143.0
+
+Position: [85.47833707595893, 85.47833707595893]
+Speed: [0.23759255478829303, 0.23759255478829303]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 144.0
+
+Position: [85.71355370519935, 85.71355370519935]
+Speed: [0.2352166292404101, 0.2352166292404101]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 145.0
+
+Position: [85.94641816814735, 85.94641816814735]
+Speed: [0.232864462948006, 0.232864462948006]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 146.0
+
+Position: [86.17695398646588, 86.17695398646588]
+Speed: [0.23053581831852593, 0.23053581831852593]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 147.0
+
+Position: [86.40518444660121, 86.40518444660121]
+Speed: [0.22823046013534068, 0.22823046013534068]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 148.0
+
+Position: [86.6311326021352, 86.6311326021352]
+Speed: [0.22594815553398728, 0.22594815553398728]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 149.0
+
+Position: [86.85482127611384, 86.85482127611384]
+Speed: [0.22368867397864742, 0.22368867397864742]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 150.0
+
+Position: [87.0762730633527, 87.0762730633527]
+Speed: [0.22145178723886094, 0.22145178723886094]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 151.0
+
+Position: [87.29551033271918, 87.29551033271918]
+Speed: [0.21923726936647234, 0.21923726936647234]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 152.0
+
+Position: [87.51255522939198, 87.51255522939198]
+Speed: [0.2170448966728076, 0.2170448966728076]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 153.0
+
+Position: [87.72742967709806, 87.72742967709806]
+Speed: [0.21487444770607952, 0.21487444770607952]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 154.0
+
+Position: [87.94015538032707, 87.94015538032707]
+Speed: [0.21272570322901874, 0.21272570322901874]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 155.0
+
+Position: [88.1507538265238, 88.1507538265238]
+Speed: [0.21059844619672854, 0.21059844619672854]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 156.0
+
+Position: [88.35924628825856, 88.35924628825856]
+Speed: [0.20849246173476127, 0.20849246173476127]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 157.0
+
+Position: [88.56565382537597, 88.56565382537597]
+Speed: [0.20640753711741366, 0.20640753711741366]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 158.0
+
+Position: [88.76999728712221, 88.76999728712221]
+Speed: [0.20434346174623952, 0.20434346174623952]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 159.0
+
+Position: [88.97229731425098, 88.97229731425098]
+Speed: [0.20230002712877712, 0.20230002712877712]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 160.0
+
+Position: [89.17257434110847, 89.17257434110847]
+Speed: [0.20027702685748935, 0.20027702685748935]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 161.0
+
+Position: [89.37084859769739, 89.37084859769739]
+Speed: [0.19827425658891445, 0.19827425658891445]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 162.0
+
+Position: [89.56714011172042, 89.56714011172042]
+Speed: [0.1962915140230253, 0.1962915140230253]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 163.0
+
+Position: [89.76146871060321, 89.76146871060321]
+Speed: [0.19432859888279505, 0.19432859888279505]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 164.0
+
+Position: [89.95385402349717, 89.95385402349717]
+Speed: [0.1923853128939671, 0.1923853128939671]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 165.0
+
+Position: [90.1443154832622, 90.1443154832622]
+Speed: [0.19046145976502743, 0.19046145976502743]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 166.0
+
+Position: [90.33287232842959, 90.33287232842959]
+Speed: [0.18855684516737714, 0.18855684516737714]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 167.0
+
+Position: [90.51954360514529, 90.51954360514529]
+Speed: [0.18667127671570335, 0.18667127671570335]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 168.0
+
+Position: [90.70434816909383, 90.70434816909383]
+Speed: [0.18480456394854633, 0.18480456394854633]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 169.0
+
+Position: [90.88730468740289, 90.88730468740289]
+Speed: [0.18295651830906087, 0.18295651830906087]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 170.0
+
+Position: [91.06843164052886, 91.06843164052886]
+Speed: [0.18112695312597027, 0.18112695312597027]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 171.0
+
+Position: [91.24774732412357, 91.24774732412357]
+Speed: [0.17931568359471056, 0.17931568359471056]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 172.0
+
+Position: [91.42526985088233, 91.42526985088233]
+Speed: [0.17752252675876345, 0.17752252675876345]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 173.0
+
+Position: [91.6010171523735, 91.6010171523735]
+Speed: [0.17574730149117582, 0.17574730149117582]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 174.0
+
+Position: [91.77500698084977, 91.77500698084977]
+Speed: [0.17398982847626407, 0.17398982847626407]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 175.0
+
+Position: [91.94725691104126, 91.94725691104126]
+Speed: [0.17224993019150142, 0.17224993019150142]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 176.0
+
+Position: [92.11778434193086, 92.11778434193086]
+Speed: [0.1705274308895864, 0.1705274308895864]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 177.0
+
+Position: [92.28660649851155, 92.28660649851155]
+Speed: [0.16882215658069055, 0.16882215658069055]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 178.0
+
+Position: [92.45374043352643, 92.45374043352643]
+Speed: [0.16713393501488363, 0.16713393501488363]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 179.0
+
+Position: [92.61920302919117, 92.61920302919117]
+Speed: [0.16546259566473479, 0.16546259566473479]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 180.0
+
+Position: [92.78301099889926, 92.78301099889926]
+Speed: [0.16380796970808745, 0.16380796970808745]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 181.0
+
+Position: [92.94518088891026, 92.94518088891026]
+Speed: [0.16216989001100657, 0.16216989001100657]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 182.0
+
+Position: [93.10572908002115, 93.10572908002115]
+Speed: [0.1605481911108965, 0.1605481911108965]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 183.0
+
+Position: [93.26467178922094, 93.26467178922094]
+Speed: [0.15894270919978754, 0.15894270919978754]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 184.0
+
+Position: [93.42202507132873, 93.42202507132873]
+Speed: [0.15735328210778965, 0.15735328210778965]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 185.0
+
+Position: [93.57780482061544, 93.57780482061544]
+Speed: [0.15577974928671176, 0.15577974928671176]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 186.0
+
+Position: [93.73202677240928, 93.73202677240928]
+Speed: [0.15422195179384465, 0.15422195179384465]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 187.0
+
+Position: [93.88470650468518, 93.88470650468518]
+Speed: [0.1526797322759062, 0.1526797322759062]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 188.0
+
+Position: [94.03585943963833, 94.03585943963833]
+Speed: [0.15115293495314713, 0.15115293495314713]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 189.0
+
+Position: [94.18550084524195, 94.18550084524195]
+Speed: [0.14964140560361566, 0.14964140560361566]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 190.0
+
+Position: [94.33364583678953, 94.33364583678953]
+Speed: [0.1481449915475795, 0.1481449915475795]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 191.0
+
+Position: [94.48030937842164, 94.48030937842164]
+Speed: [0.1466635416321037, 0.1466635416321037]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 192.0
+
+Position: [94.62550628463742, 94.62550628463742]
+Speed: [0.14519690621578268, 0.14519690621578268]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 193.0
+
+Position: [94.76925122179105, 94.76925122179105]
+Speed: [0.14374493715362485, 0.14374493715362485]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 194.0
+
+Position: [94.91155870957314, 94.91155870957314]
+Speed: [0.1423074877820886, 0.1423074877820886]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 195.0
+
+Position: [95.05244312247741, 95.05244312247741]
+Speed: [0.1408844129042677, 0.1408844129042677]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 196.0
+
+Position: [95.19191869125264, 95.19191869125264]
+Speed: [0.13947556877522502, 0.13947556877522502]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 197.0
+
+Position: [95.32999950434011, 95.32999950434011]
+Speed: [0.13808081308747278, 0.13808081308747278]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 198.0
+
+Position: [95.4666995092967, 95.4666995092967]
+Speed: [0.13670000495659804, 0.13670000495659804]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 199.0
+
+Position: [95.60203251420373, 95.60203251420373]
+Speed: [0.13533300490703207, 0.13533300490703207]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 200.0
+
+Position: [95.7360121890617, 95.7360121890617]
+Speed: [0.13397967485796175, 0.13397967485796175]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 201.0
+
+Position: [95.86865206717108, 95.86865206717108]
+Speed: [0.13263987810938213, 0.13263987810938213]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 202.0
+
+Position: [95.99996554649937, 95.99996554649937]
+Speed: [0.1313134793282883, 0.1313134793282883]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 203.0
+
+Position: [96.12996589103437, 96.12996589103437]
+Speed: [0.13000034453500542, 0.13000034453500542]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 204.0
+
+Position: [96.25866623212403, 96.25866623212403]
+Speed: [0.12870034108965536, 0.12870034108965536]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 205.0
+
+Position: [96.38607956980279, 96.38607956980279]
+Speed: [0.12741333767875881, 0.12741333767875881]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 206.0
+
+Position: [96.51221877410477, 96.51221877410477]
+Speed: [0.12613920430197123, 0.12613920430197123]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 207.0
+
+Position: [96.63709658636373, 96.63709658636373]
+Speed: [0.12487781225895152, 0.12487781225895152]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 208.0
+
+Position: [96.76072562050008, 96.76072562050008]
+Speed: [0.123629034136362, 0.123629034136362]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 209.0
+
+Position: [96.88311836429509, 96.88311836429509]
+Speed: [0.12239274379499838, 0.12239274379499838]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 210.0
+
+Position: [97.00428718065213, 97.00428718065213]
+Speed: [0.1211688163570484, 0.1211688163570484]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 211.0
+
+Position: [97.1242443088456, 97.1242443088456]
+Speed: [0.11995712819347792, 0.11995712819347792]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 212.0
+
+Position: [97.24300186575715, 97.24300186575715]
+Speed: [0.11875755691154315, 0.11875755691154315]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 213.0
+
+Position: [97.36057184709958, 97.36057184709958]
+Speed: [0.11756998134242772, 0.11756998134242772]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 214.0
+
+Position: [97.47696612862858, 97.47696612862858]
+Speed: [0.11639428152900344, 0.11639428152900344]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 215.0
+
+Position: [97.59219646734229, 97.59219646734229]
+Speed: [0.11523033871371341, 0.11523033871371341]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 216.0
+
+Position: [97.70627450266886, 97.70627450266886]
+Speed: [0.11407803532657627, 0.11407803532657627]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 217.0
+
+Position: [97.81921175764217, 97.81921175764217]
+Speed: [0.11293725497331052, 0.11293725497331052]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 218.0
+
+Position: [97.93101964006574, 97.93101964006574]
+Speed: [0.1118078824235774, 0.1118078824235774]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 219.0
+
+Position: [98.04170944366508, 98.04170944366508]
+Speed: [0.11068980359934164, 0.11068980359934164]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 220.0
+
+Position: [98.15129234922843, 98.15129234922843]
+Speed: [0.10958290556334822, 0.10958290556334822]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 221.0
+
+Position: [98.25977942573614, 98.25977942573614]
+Speed: [0.10848707650771475, 0.10848707650771475]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 222.0
+
+Position: [98.36718163147879, 98.36718163147879]
+Speed: [0.1074022057426376, 0.1074022057426376]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 223.0
+
+Position: [98.473509815164, 98.473509815164]
+Speed: [0.10632818368521123, 0.10632818368521123]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 224.0
+
+Position: [98.57877471701235, 98.57877471701235]
+Speed: [0.10526490184835911, 0.10526490184835911]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 225.0
+
+Position: [98.68298696984223, 98.68298696984223]
+Speed: [0.10421225282987552, 0.10421225282987552]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 226.0
+
+Position: [98.78615710014381, 98.78615710014381]
+Speed: [0.10317013030157676, 0.10317013030157676]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 227.0
+
+Position: [98.88829552914237, 98.88829552914237]
+Speed: [0.10213842899856099, 0.10213842899856099]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 228.0
+
+Position: [98.98941257385094, 98.98941257385094]
+Speed: [0.10111704470857538, 0.10111704470857538]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 229.0
+
+Position: [99.08951844811243, 99.08951844811243]
+Speed: [0.10010587426148963, 0.10010587426148963]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 230.0
+
+Position: [99.1886232636313, 99.1886232636313]
+Speed: [0.09910481551887473, 0.09910481551887473]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 231.0
+
+Position: [99.28673703099498, 99.28673703099498]
+Speed: [0.09811376736368599, 0.09811376736368599]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 232.0
+
+Position: [99.38386966068504, 99.38386966068504]
+Speed: [0.09713262969004913, 0.09713262969004913]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 233.0
+
+Position: [99.48003096407818, 99.48003096407818]
+Speed: [0.09616130339314863, 0.09616130339314863]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 234.0
+
+Position: [99.5752306544374, 99.5752306544374]
+Speed: [0.09519969035921715, 0.09519969035921715]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 235.0
+
+Position: [99.66947834789303, 99.66947834789303]
+Speed: [0.09424769345562498, 0.09424769345562498]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 236.0
+
+Position: [99.76278356441411, 99.76278356441411]
+Speed: [0.09330521652106873, 0.09330521652106873]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 237.0
+
+Position: [99.85515572876997, 99.85515572876997]
+Speed: [0.09237216435585804, 0.09237216435585804]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 238.0
+
+Position: [99.94660417148228, 99.94660417148228]
+Speed: [0.09144844271229946, 0.09144844271229946]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 239.0
+
+Position: [100.03713812976746, 100.03713812976746]
+Speed: [0.09053395828517646, 0.09053395828517646]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 240.0
+
+Position: [100.12676674846978, 100.12676674846978]
+Speed: [0.08962861870232469, 0.08962861870232469]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 241.0
+
+Position: [100.21549908098508, 100.21549908098508]
+Speed: [0.08873233251530144, 0.08873233251530144]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 242.0
+
+Position: [100.30334409017523, 100.30334409017523]
+Speed: [0.08784500919014843, 0.08784500919014843]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 243.0
+
+Position: [100.39031064927347, 100.39031064927347]
+Speed: [0.08696655909824694, 0.08696655909824694]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 244.0
+
+Position: [100.47640754278073, 100.47640754278073]
+Speed: [0.08609689350726446, 0.08609689350726446]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 245.0
+
+Position: [100.56164346735292, 100.56164346735292]
+Speed: [0.08523592457219181, 0.08523592457219181]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 246.0
+
+Position: [100.6460270326794, 100.6460270326794]
+Speed: [0.0843835653264699, 0.0843835653264699]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 247.0
+
+Position: [100.7295667623526, 100.7295667623526]
+Speed: [0.0835397296732052, 0.0835397296732052]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 248.0
+
+Position: [100.81227109472908, 100.81227109472908]
+Speed: [0.08270433237647315, 0.08270433237647315]
+At Rest? true
+In Bounds? true
+
+
+
+Ball 1 went out of bounds!
+
+
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim check for collision...
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 2 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [10.0, 10.0]
+Speed: [1.0, 1.0]
+At Rest? false
+In Bounds? true
+
+Ball 2: Position: [20.0, 20.0]
+Speed: [-1.0, -1.0]
+At Rest? false
+In Bounds? true
+
+
+ Using default timeslice value of 1.0 second(s)
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice 1.0 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: 1.0
+
+Position: [10.99, 10.99]
+Speed: [0.99, 0.99]
+At Rest? false
+In Bounds? true
+
+Position: [19.01, 19.01]
+Speed: [-0.99, -0.99]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 2.0
+
+Position: [11.9701, 11.9701]
+Speed: [0.9801, 0.9801]
+At Rest? false
+In Bounds? true
+
+Position: [18.0299, 18.0299]
+Speed: [-0.9801, -0.9801]
+At Rest? false
+In Bounds? true
+
+
+COLLISION DETECTED
+
+Balls 1 and 2 collided at [11.9701, 11.9701] at time 2.0 seconds!
+
+Position: [11.9701, 11.9701]
+Speed: [0.9801, 0.9801]
+At Rest? false
+In Bounds? true
+
+Position: [18.0299, 18.0299]
+Speed: [-0.9801, -0.9801]
+At Rest? false
+In Bounds? true
+
+Distance between Balls 1 and 2: 8.569851345268482
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim valid ball should go out of bounds...
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 1 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [10.0, 10.0]
+Speed: [1000.0, 1000.0]
+At Rest? false
+In Bounds? true
+
+
+ Using default timeslice value of 1.0 second(s)
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice 1.0 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: 1.0
+
+Position: [1000.0, 1000.0]
+Speed: [990.0, 990.0]
+At Rest? false
+In Bounds? false
+
+
+
+Ball 1 went out of bounds!
+
+
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim valid ball set six balls subsecond time slice...
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 6 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [200.0, 200.0]
+Speed: [10.0, 10.0]
+At Rest? false
+In Bounds? true
+
+Ball 2: Position: [100.0, 100.0]
+Speed: [-100.0, -100.0]
+At Rest? false
+In Bounds? true
+
+Ball 3: Position: [150.0, 150.0]
+Speed: [200.0, 200.0]
+At Rest? false
+In Bounds? true
+
+Ball 4: Position: [175.0, 175.0]
+Speed: [-110.0, -110.0]
+At Rest? false
+In Bounds? true
+
+Ball 5: Position: [20.0, 20.0]
+Speed: [1.0, 1.0]
+At Rest? false
+In Bounds? true
+
+Ball 6: Position: [50.0, 50.0]
+Speed: [-5.0, -5.0]
+At Rest? false
+In Bounds? true
+
+
+Using Timeslice value at SoccerSim 25: 0.1
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice 0.1 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: 0.0
+
+Position: [209.9899547129175, 209.9899547129175]
+Speed: [9.9899547129175, 9.9899547129175]
+At Rest? false
+In Bounds? true
+
+Position: [0.10045287082499499, 0.10045287082499499]
+Speed: [-99.899547129175, -99.899547129175]
+At Rest? false
+In Bounds? true
+
+Position: [349.79909425835, 349.79909425835]
+Speed: [199.79909425835, 199.79909425835]
+At Rest? false
+In Bounds? true
+
+Position: [65.1104981579075, 65.1104981579075]
+Speed: [-109.8895018420925, -109.8895018420925]
+At Rest? false
+In Bounds? true
+
+Position: [20.99899547129175, 20.99899547129175]
+Speed: [0.99899547129175, 0.99899547129175]
+At Rest? false
+In Bounds? true
+
+Position: [45.00502264354125, 45.00502264354125]
+Speed: [-4.99497735645875, -4.99497735645875]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 0.0
+
+Position: [219.96987422953174, 219.96987422953174]
+Speed: [9.979919516614258, 9.979919516614258]
+At Rest? false
+In Bounds? true
+
+Position: [-99.69874229531759, -99.69874229531759]
+Speed: [-99.79919516614258, -99.79919516614258]
+At Rest? false
+In Bounds? true
+
+Position: [549.3974845906351, 549.3974845906351]
+Speed: [199.59839033228516, 199.59839033228516]
+At Rest? false
+In Bounds? false
+
+Position: [-44.66861652484933, -44.66861652484933]
+Speed: [-109.77911468275683, -109.77911468275683]
+At Rest? false
+In Bounds? true
+
+Position: [21.996987422953175, 21.996987422953175]
+Speed: [0.9979919516614257, 0.9979919516614257]
+At Rest? false
+In Bounds? true
+
+Position: [40.01506288523412, 40.01506288523412]
+Speed: [-4.989959758307129, -4.989959758307129]
+At Rest? false
+In Bounds? true
+
+
+
+Ball 3 went out of bounds!
+
+
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim valid ball set five balls 1.234 second time slice...
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 6 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [200.0, 200.0]
+Speed: [10.0, 10.0]
+At Rest? false
+In Bounds? true
+
+Ball 2: Position: [100.0, 100.0]
+Speed: [-100.0, -100.0]
+At Rest? false
+In Bounds? true
+
+Ball 3: Position: [150.0, 150.0]
+Speed: [200.0, 200.0]
+At Rest? false
+In Bounds? true
+
+Ball 4: Position: [175.0, 175.0]
+Speed: [-110.0, -110.0]
+At Rest? false
+In Bounds? true
+
+Ball 5: Position: [20.0, 20.0]
+Speed: [1.0, 1.0]
+At Rest? false
+In Bounds? true
+
+Ball 6: Position: [50.0, 50.0]
+Speed: [-5.0, -5.0]
+At Rest? false
+In Bounds? true
+
+
+Using Timeslice value at SoccerSim 25: 1.234
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice 1.234 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: 1.0
+
+Position: [209.8767447482818, 209.8767447482818]
+Speed: [9.876744748281789, 9.876744748281789]
+At Rest? false
+In Bounds? true
+
+Position: [1.2325525171821, 1.2325525171821]
+Speed: [-98.7674474828179, -98.7674474828179]
+At Rest? false
+In Bounds? true
+
+Position: [347.5348949656358, 347.5348949656358]
+Speed: [197.5348949656358, 197.5348949656358]
+At Rest? false
+In Bounds? true
+
+Position: [66.35580776890032, 66.35580776890032]
+Speed: [-108.64419223109968, -108.64419223109968]
+At Rest? false
+In Bounds? true
+
+Position: [20.98767447482818, 20.98767447482818]
+Speed: [0.9876744748281789, 0.9876744748281789]
+At Rest? false
+In Bounds? true
+
+Position: [45.0616276258591, 45.0616276258591]
+Speed: [-4.9383723741408945, -4.9383723741408945]
+At Rest? false
+In Bounds? true
+
+SECONDS PASSED: 2.0
+
+Position: [219.63175343055298, 219.63175343055298]
+Speed: [9.75500868227119, 9.75500868227119]
+At Rest? false
+In Bounds? true
+
+Position: [-96.31753430552982, -96.31753430552982]
+Speed: [-97.55008682271192, -97.55008682271192]
+At Rest? false
+In Bounds? true
+
+Position: [542.6350686110596, 542.6350686110596]
+Speed: [195.10017364542384, 195.10017364542384]
+At Rest? false
+In Bounds? false
+
+Position: [-40.94928773608278, -40.94928773608278]
+Speed: [-107.3050955049831, -107.3050955049831]
+At Rest? false
+In Bounds? true
+
+Position: [21.963175343055298, 21.963175343055298]
+Speed: [0.9755008682271191, 0.9755008682271191]
+At Rest? false
+In Bounds? true
+
+Position: [40.184123284723505, 40.184123284723505]
+Speed: [-4.877504341135595, -4.877504341135595]
+At Rest? false
+In Bounds? true
+
+
+
+Ball 3 went out of bounds!
+
+
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  
 ... Testing SoccerSim valid ball set ten balls 10 second time slice...
 ======================================  
 
-  Hello, world, from the SoccerSim program!
+
+
+CreatingCreating 10 balls on a 1000x1000 square foot field . . .
+Done
+
+
+Ball 1: Position: [150.0, 150.0]
+Speed: [10.0, 10.0]
+At Rest? false
+In Bounds? true
+
+Ball 2: Position: [100.0, 100.0]
+Speed: [-100.0, -100.0]
+At Rest? false
+In Bounds? true
+
+Ball 3: Position: [200.0, 200.0]
+Speed: [200.0, 200.0]
+At Rest? false
+In Bounds? true
+
+Ball 4: Position: [250.0, 250.0]
+Speed: [-110.0, -110.0]
+At Rest? false
+In Bounds? true
+
+Ball 5: Position: [20.0, 20.0]
+Speed: [1.0, 1.0]
+At Rest? false
+In Bounds? true
+
+Ball 6: Position: [50.0, 50.0]
+Speed: [-5.0, -5.0]
+At Rest? false
+In Bounds? true
+
+Ball 7: Position: [-100.0, -100.0]
+Speed: [200.0, 200.0]
+At Rest? false
+In Bounds? true
+
+Ball 8: Position: [-200.0, -200.0]
+Speed: [300.0, 300.0]
+At Rest? false
+In Bounds? true
+
+Ball 9: Position: [-110.0, -110.0]
+Speed: [20.0, 20.0]
+At Rest? false
+In Bounds? true
+
+Ball 10: Position: [1.0, 1.0]
+Speed: [50.0, 50.0]
+At Rest? false
+In Bounds? true
+
+
+Using Timeslice value at SoccerSim 41: 10.0
+
+
+
+Testing ballMoving
+true
+
+
+STARTING SIMULATION
+
+Creating new Clock with timeslice 10.0 . . . 
+Done
+
+MOVING BALLS UNTIL COLLISION DETECTED OR BALLS HAVE STOPPED
+SECONDS PASSED: 10.0
+
+Position: [159.04382075008803, 159.04382075008803]
+Speed: [9.043820750088043, 9.043820750088043]
+At Rest? false
+In Bounds? true
+
+Position: [9.561792499119562, 9.561792499119562]
+Speed: [-90.43820750088044, -90.43820750088044]
+At Rest? false
+In Bounds? true
+
+Position: [380.87641500176085, 380.87641500176085]
+Speed: [180.87641500176088, 180.87641500176088]
+At Rest? false
+In Bounds? true
+
+Position: [150.51797174903152, 150.51797174903152]
+Speed: [-99.48202825096848, -99.48202825096848]
+At Rest? false
+In Bounds? true
+
+Position: [20.904382075008805, 20.904382075008805]
+Speed: [0.9043820750088044, 0.9043820750088044]
+At Rest? false
+In Bounds? true
+
+Position: [45.47808962495598, 45.47808962495598]
+Speed: [-4.521910375044022, -4.521910375044022]
+At Rest? false
+In Bounds? true
+
+Position: [80.87641500176088, 80.87641500176088]
+Speed: [180.87641500176088, 180.87641500176088]
+At Rest? false
+In Bounds? true
+
+Position: [71.31462250264133, 71.31462250264133]
+Speed: [271.3146225026413, 271.3146225026413]
+At Rest? false
+In Bounds? true
+
+Position: [-91.91235849982391, -91.91235849982391]
+Speed: [18.087641500176087, 18.087641500176087]
+At Rest? false
+In Bounds? true
+
+Position: [46.21910375044022, 46.21910375044022]
+Speed: [45.21910375044022, 45.21910375044022]
+At Rest? false
+In Bounds? true
+
+
+COLLISION DETECTED
+
+Balls 6 and 10 collided at [45.47808962495598, 45.47808962495598] at time 10.0 seconds!
+
+Position: [45.47808962495598, 45.47808962495598]
+Speed: [-4.521910375044022, -4.521910375044022]
+At Rest? false
+In Bounds? true
+
+Position: [46.21910375044022, 46.21910375044022]
+Speed: [45.21910375044022, 45.21910375044022]
+At Rest? false
+In Bounds? true
+
+Distance between Balls 6 and 10: 1.0479522261698528
+
+Done
+
+
+
 .                                       
 .                                       
 ======================================  

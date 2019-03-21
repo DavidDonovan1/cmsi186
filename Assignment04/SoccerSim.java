@@ -90,7 +90,7 @@ public class SoccerSim {
 					System.out.println("Ignoring argument at SoccerSim " + (args.length - p) + ": " + args[args.length - p - 1]);
 				}
 			}
-			try { timeslice = Double.parseDouble(args[args.length-((args.length%4))]);
+			try { timeslice = Math.abs(Double.parseDouble(args[args.length-((args.length%4))]));
 			System.out.println("\nUsing Timeslice value at SoccerSim " + (args.length - (args.length%4 -1)) + ": " + args[args.length-((args.length%4))]); }
 			catch (Exception e) { System.out.println("\nInvalid timeslice \nUsing default timeslice value of 1.0 Seconds"); }
 
