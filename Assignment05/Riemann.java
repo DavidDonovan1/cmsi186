@@ -1,3 +1,4 @@
+import java.lang.*;
 public class Riemann {
 	
 	public static double percent = -1.0;
@@ -43,8 +44,28 @@ public class Riemann {
 	}
 	
 	
-	public double sin(double args[]) {
-		return 0.0;
+	public static double sin(double args[]) {
+		sum = 0.0;
+		height = 0.0;
+		width = ((upperBound-lowerBound)/numRectangles);
+		originMid = lowerBound + (((upperBound - lowerBound)/(numRectangles))/2);
+		
+		
+		
+		for (int j = numRectangles; j>0; j--) {
+			height = 0.0;
+			midpoint = originMid + ((numRectangles-j) * width);
+			//System.out.println("number of rectangles: " + numRectangles);
+			//System.out.println("\nNth rectangle: " + j + "\nMidpoint: " + midpoint);
+			for (int i=0; i<args.length;i++) {
+				height += (args[i]*Math.sin(midpoint));
+			}
+			sum += height * width;
+			
+		}
+		
+		numRectangles++;
+		return sum;
 	}
 	
 	public double log(String args[]) {
@@ -107,6 +128,11 @@ public class Riemann {
 		return true;
 	}
 	
+	public static boolean goSinAgain() {
+		if (((sin(arguments) - answer) / answer) * 100 <= percent) { return false; }
+		return true;
+	}
+	
 	public static void testPoly() {
 		System.out.println("\nTESTING POLYNOMIAL RIEMANN SUMS: \nUSING BOUNDS [0.0, 4.0] \nUSING PERCENT: 1.0");
 		upperBound = 4.0; lowerBound = 0.0; percent = 1.0;
@@ -134,7 +160,14 @@ public class Riemann {
 						System.out.println("\nUsing " + (numRectangles-2) + " rectangles");
 						System.out.println("\tMidpoint sum of polynomial: "+ answer);
 						break;
-			case "sin":
+			case "sin":						
+						answer = sin(arguments); 
+						while(goSinAgain()){
+							answer = poly(arguments);
+						}
+						System.out.println("\nUsing " + (numRectangles-2) + " rectangles");
+						System.out.println("\tMidpoint sum of polynomial: "+ answer);
+						break;
 			case "log":
 			case "exp": 
 			case "sqrt":
