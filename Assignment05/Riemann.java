@@ -134,18 +134,53 @@ public class Riemann {
 	}
 	
 	public static void testPoly() {
-		System.out.println("\nTESTING POLYNOMIAL RIEMANN SUMS: \nUSING BOUNDS [0.0, 4.0] \nUSING PERCENT: 1.0");
+		System.out.println("\nTESTING POLYNOMIAL RIEMANN SUMS: \n\nUSING BOUNDS [0.0, 4.0] \nUSING PERCENT: 1.0");
 		upperBound = 4.0; lowerBound = 0.0; percent = 1.0;
-		System.out.println("Using polynomial 1+x+x^2\nTESTING 1 RECTANGLE");
+		System.out.println("\nUsing polynomial 1+x+x^2\n\nTESTING 1 RECTANGLE");
 		arguments = new double[]{1, 1, 1};
 		numRectangles = 1; 
 		System.out.println("\tMidpoint sum of polynomial: "+ poly(arguments));
 		System.out.println("TESTING 2 RECTANGLE");
 		numRectangles = 2;
 		System.out.println("\tMidpoint sum of polynomial: "+ poly(arguments));
+		numRectangles = 1; answer = poly(arguments); numRectangles = 2;
+		System.out.println("\t\tPercent Change between rectangles 1 and 2: " + ((poly(arguments) - answer) / answer)*100);
 		System.out.println("TESTING 3 RECTANGLE");
 		numRectangles = 3;
 		System.out.println("\tMidpoint sum of polynomial: "+ poly(arguments));
+		numRectangles = 2; answer = poly(arguments); numRectangles = 3;
+		System.out.println("\t\tPercent Change between rectangles 2 and 3: " + ((poly(arguments) - answer) / answer)*100);
+		System.out.println("TESTING 4 RECTANGLE");
+		numRectangles = 4;
+		System.out.println("\tMidpoint sum of polynomial: "+ poly(arguments));
+		numRectangles = 3; answer = poly(arguments); numRectangles = 4;
+		System.out.println("\t\tPercent Change between rectangles 3 and 4: " + ((poly(arguments) - answer) / answer)*100);
+		
+		upperBound = 4.0; lowerBound = 0.0; percent = 1.0;
+		System.out.println("\nUsing polynomial 2+2x+2x^2+2x^3\n\nTESTING 1 RECTANGLE");
+		arguments = new double[]{2, 2, 2, 2};
+		numRectangles = 1; 
+		System.out.println("\tMidpoint sum of polynomial: "+ poly(arguments));
+		System.out.println("TESTING 2 RECTANGLE");
+		numRectangles = 2;
+		System.out.println("\tMidpoint sum of polynomial: "+ poly(arguments));
+		numRectangles = 1; answer = poly(arguments); numRectangles = 2;
+		System.out.println("\t\tPercent Change between rectangles 1 and 2: " + ((poly(arguments) - answer) / answer)*100);
+		System.out.println("TESTING 3 RECTANGLE");
+		numRectangles = 3;
+		System.out.println("\tMidpoint sum of polynomial: "+ poly(arguments));
+		numRectangles = 2; answer = poly(arguments); numRectangles = 3;
+		System.out.println("\t\tPercent Change between rectangles 2 and 3: " + ((poly(arguments) - answer) / answer)*100);
+		System.out.println("TESTING 4 RECTANGLE");
+		numRectangles = 4;
+		System.out.println("\tMidpoint sum of polynomial: "+ poly(arguments));
+		numRectangles = 3; answer = poly(arguments); numRectangles = 4;
+		System.out.println("\t\tPercent Change between rectangles 3 and 4: " + ((poly(arguments) - answer) / answer)*100);
+		System.out.println("TESTING 5 RECTANGLE");
+		numRectangles = 5;
+		System.out.println("\tMidpoint sum of polynomial: "+ poly(arguments));
+		numRectangles = 4; answer = poly(arguments); numRectangles = 5;
+		System.out.println("\t\tPercent Change between rectangles 4 and 5: " + ((poly(arguments) - answer) / answer)*100);
 	}
 		
 	
