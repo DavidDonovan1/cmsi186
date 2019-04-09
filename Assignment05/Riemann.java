@@ -150,7 +150,7 @@ public class Riemann {
 		
 	
 	public static void main(String args[]) {
-		
+
 		switch (args[0]) {
 			case "poly":parseArguments(args);
 						answer = poly(arguments); 
@@ -160,7 +160,8 @@ public class Riemann {
 						System.out.println("\nUsing " + (numRectangles-2) + " rectangles");
 						System.out.println("\tMidpoint sum of polynomial: "+ answer);
 						break;
-			case "sin":						
+			case "sin":	numRectangles = 0;
+						parseArguments(args);		
 						answer = sin(arguments); 
 						while(goSinAgain()){
 							answer = poly(arguments);
