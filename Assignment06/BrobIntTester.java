@@ -594,7 +594,7 @@ public class BrobIntTester {
          System.out.println( "    Test 053: Making a new BrobInt: " + g21String );
          g21 = new BrobInt( g21String );
       }
-      catch( Exception e ) { System.out.println( "        Exception corectly thrown: " ); }
+      catch( Exception e ) { System.out.println( "        Exception corectly thrown " ); }
       
 	  
 	  try {
