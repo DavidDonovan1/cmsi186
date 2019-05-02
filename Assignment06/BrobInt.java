@@ -207,7 +207,7 @@ public class BrobInt {
 					else { sumArray[i] = this.reversedArray[i]; }
 				}
 				for (int i=0; i< (this.initialValue.length() > bint.initialValue.length() ? this.initialValue.length() : bint.initialValue.length()); i++) {
-					if (sumArray[i] < 0) { sumArray[i]+=10; sumArray[i+1]--;}
+					if (sumArray[i] < 0) { sumArray[i]+=10; sumArray[i+1]--; System.out.println("THIS RUNS");}
 				}
 			}
 			else {
@@ -225,11 +225,37 @@ public class BrobInt {
 		}
 		
 		else if (this.sign == 1 && bint.sign == 1) {
-			result = (this.compareTo(bint) == -1 ? "":"=");
+			result = (this.compareTo(bint) == -1 ? "":"-");
+			
+			if(this.compareTo(bint) == -1) {
+				BrobInt v1 = new BrobInt(this.initialValue);
+				BrobInt v2 = new BrobInt(bint.initialValue);
+				BrobInt answer = ZERO;
+				try{answer = v2.subtract(v1);}
+				catch (Exception e) {System.out.println("ERROR HERE NOT IN TESTER" +e);}
+				result += answer.initialValue;
+				sum = new BrobInt(result);
+				return sum;
+
+			}
+			else {
+				BrobInt v1 = new BrobInt(this.initialValue);
+				BrobInt v2 = new BrobInt(bint.initialValue);
+				BrobInt answer = ZERO;
+				try{answer = v1.subtract(v2);}
+				catch (Exception e) {System.out.println("ERROR HERE NOT IN TESTER" +e);}
+				result += answer.initialValue;
+				sum = new BrobInt(result);
+				return sum;
+
+			}
 		}
 		
 		
 		else if (this.compareTo(bint) == -1) { result = "-10"; }
+		
+		
+		
 		
 		
 		for(int i=0; i< sumArray.length; i++){
@@ -247,7 +273,13 @@ public class BrobInt {
    *  @return BrobInt that is the product of the value of this BrobInt and the one passed in
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt multiply( BrobInt bint ) {
-      throw new UnsupportedOperationException( "\n         Sorry, that operation is not yet implemented." );
+	   BrobInt result = ZERO;
+	   for (BrobInt i = ZERO; i.compareTo(bint)== -1; i = i.add(ONE)) {
+
+			result = result.add(this);
+	   }
+	   return result;
+	   
    }
 
   /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -381,17 +413,9 @@ public class BrobInt {
       System.out.println( "\n  Hello, world, from the BrobInt program!!\n" );
       System.out.println( "\n   You should run your tests from the BrobIntTester...\n" );
       BrobInt variable = new BrobInt(args[0]);
-	  BrobInt variable1 = new BrobInt("100");
+	  BrobInt variable1 = new BrobInt("999999");
 	  
-	  /*
-	  System.out.println(variable.initialValue);
-	  System.out.println(variable1.initialValue);
-	  System.out.println(Arrays.toString(variable.initialArray));
-	  System.out.println(Arrays.toString(variable1.initialArray));
-	  System.out.println(Arrays.toString(variable.reversedArray));
-	  System.out.println(Arrays.toString(variable1.reversedArray));
-	  System.out.println(variable.reversedValue);
-	  System.out.println(variable1.reversedValue);
+	 
 	  
 	  System.out.println(variable.sign);
 	  
@@ -402,9 +426,9 @@ public class BrobInt {
 	  System.out.println("Should get " + (Integer.parseInt(args[0]) + 99999));
 	  System.out.println(variable1.add(variable).toString());
 	  
-	  */
+	  
 	  System.out.println("TESTING Subtract ---------------");
-	  System.out.println("Should get " + (Integer.parseInt(args[0]) - 100));
+	  System.out.println("Should get " + (Integer.parseInt(args[0]) - 999999));
 	  System.out.println(variable.subtract(variable1).toString());
 	  
 	  
