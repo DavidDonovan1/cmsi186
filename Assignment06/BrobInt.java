@@ -121,6 +121,10 @@ public class BrobInt {
     public BrobInt reverser() {
 		return null;
     }
+	
+	public int getSign() {
+		return this.sign;
+	}
 
   /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    *  Method to reverse the value of a BrobIntk passed as argument
@@ -175,7 +179,12 @@ public class BrobInt {
 		else { 
 		BrobInt abs1 = new BrobInt(this.initialValue);
 		BrobInt abs2 = new BrobInt(bint.initialValue);
-		return abs1.subtract(abs2);
+		BrobInt subtractResult = abs1.subtract(abs2);
+		if(this.compareTo(bint) == -1) {result = "-";}
+		result+= subtractResult.initialValue;
+		sum = new BrobInt(result);
+		return sum;
+		
 		}
 		
 		
@@ -207,7 +216,7 @@ public class BrobInt {
 					else { sumArray[i] = this.reversedArray[i]; }
 				}
 				for (int i=0; i< (this.initialValue.length() > bint.initialValue.length() ? this.initialValue.length() : bint.initialValue.length()); i++) {
-					if (sumArray[i] < 0) { sumArray[i]+=10; sumArray[i+1]--; System.out.println("THIS RUNS");}
+					if (sumArray[i] < 0) { sumArray[i]+=10; sumArray[i+1]--;}
 				}
 			}
 			else {
@@ -274,10 +283,18 @@ public class BrobInt {
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt multiply( BrobInt bint ) {
 	   BrobInt result = ZERO;
-	   for (BrobInt i = ZERO; i.compareTo(bint)== -1; i = i.add(ONE)) {
-
-			result = result.add(this);
+	   String answer = "";
+	   if ((bint.getSign() == 1 && this.getSign() == 0) || (bint.getSign() == 0 && this.getSign() == 1)) { answer = "-"; }
+	   
+	   BrobInt b1 = new BrobInt(this.initialValue);
+	   BrobInt b2 = new BrobInt(bint.initialValue);
+	   
+	   for (BrobInt i = ZERO; i.compareTo(b2)== -1; i = i.add(ONE)) {
+			result = result.add(b1);
 	   }
+	   
+	   answer += result.initialValue;
+	   result = new BrobInt(answer);
 	   return result;
 	   
    }
@@ -288,7 +305,20 @@ public class BrobInt {
    *  @return BrobInt that is the dividend of this BrobInt divided by the one passed in
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt divide( BrobInt bint ) {
-      throw new UnsupportedOperationException( "\n         Sorry, that operation is not yet implemented." );
+	   BrobInt result = ONE;
+	   String answer = "";
+	   if (bint.equals(ZERO)) { throw new RuntimeException("Cannot divide by Zero!");}
+	   if ((bint.getSign() == 1 && this.getSign() == 0) || (bint.getSign() == 0 && this.getSign() == 1)) { answer = "-"; }
+	   
+	   BrobInt b1 = new BrobInt(this.initialValue);
+	   BrobInt b2 = new BrobInt(bint.initialValue);
+	   
+	   for (BrobInt i = ZERO; i.multiply(b2).compareTo(b1) != 1; i = i.add(ONE)) {
+			result = i;
+	   }
+	   answer += result.initialValue;
+	   result = new BrobInt(answer);
+	   return result;
    }
 
   /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -297,7 +327,10 @@ public class BrobInt {
    *  @return BrobInt that is the remainder of division of this BrobInt by the one passed in
    *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
    public BrobInt remainder( BrobInt bint ) {
-      throw new UnsupportedOperationException( "\n         Sorry, that operation is not yet implemented." );
+		BrobInt result = ZERO;
+		result = this.subtract((this.divide(bint)).multiply(bint));
+		return result;
+		
    }
 
   /** ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
